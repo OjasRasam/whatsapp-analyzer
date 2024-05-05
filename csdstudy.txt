@@ -1,0 +1,1683 @@
+02/08/23, 5:14 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+02/08/23, 5:14 pm - You created group "CSD study"
+02/08/23, 5:15 pm - You added Jayant
+02/08/23, 5:15 pm - Ojas: <Media omitted>
+02/08/23, 5:15 pm - Ojas: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TABLE</title>
+</head>
+<body>
+    <table border="1" cellspacing="0" cellpadding="5" cellheight="10">
+        <tr>
+            <th colspan="10">Weekly Attendance</th>
+        </tr>
+        <tr>
+            <th colspan="2">Name</th>
+            <th colspan="2">Payroll</th>
+            <th colspan="4">Attendance</th>
+            <th colspan="2">Leaves</th>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2">A</td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+            <td colspan="2" ></td>
+            <td colspan="2" ></td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+        </tr>
+        <tr>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+            <td colspan="2" ></td>
+            <td colspan="2" ></td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2">B</td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+            <td colspan="2" ></td>
+            <td colspan="2" ></td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+        </tr>
+        <tr>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+            <td colspan="2" ></td>
+            <td colspan="2" ></td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2">C</td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+            <td colspan="2" ></td>
+            <td colspan="2" ></td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+        </tr>
+        <tr>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+            <td colspan="2" ></td>
+            <td colspan="2" ></td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2">D</td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+            <td colspan="2" ></td>
+            <td colspan="2" ></td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+        </tr>
+        <tr>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+            <td colspan="2" ></td>
+            <td colspan="2" ></td>
+            <td colspan="1" ></td>
+            <td colspan="1" ></td>
+        </tr>
+    </table>
+</body>
+</html>
+02/08/23, 5:16 pm - Ojas: <Media omitted>
+02/08/23, 5:16 pm - Ojas: Barobr aahe kaa? bagha ekdaa
+02/08/23, 5:53 pm - Ojas: <Media omitted>
+02/08/23, 5:53 pm - Ojas: <Media omitted>
+02/08/23, 5:54 pm - Ojas: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form in HTML</title>
+</head>
+<body>
+    <form action="">
+        <label for="name">Enter name: </label>
+        <input id="name" type="text" placeholder="Enter Your name">
+        <label for="email">Enter Email:</label>
+        <input id ="email" type="text" placeholder="abc@nhitm.ac.in">
+        <br>
+        <label for="phone">Enter phone no: </label>
+        <input type="text" id="phone" placeholder="9988668646">
+        <br>
+        <label for="address">Enter Address: </label>
+        <textarea name="address" id="address" ></textarea>
+        <br>
+        <label for="gender">select your gender: </label>
+        <input type="radio" name="gender" value="male"> <label>Male</label>
+        <input type="radio" name="gender" value="female"> <label>Female</label>
+        <input type="radio" name="gender" value="other"> <label>Other</label>
+        <br>
+        <label for="dob">DOB: </label>
+        <input type="date" name="dob" id="dob">
+        <label for="time">Select Time: </label>
+        <input type="time" name="dob" id="time">
+        <br>
+        <label for="amenities">Select Amenities: </label>
+        <br>
+        <input type="checkbox" name="amenities" id="parking"><label for="parking">Parking</label><br>
+        <input type="checkbox" name="amenities" id="lift"><label for="lift">Lift</label><br>
+        <input type="checkbox" name="amenities" id="abc"><label for="abc">ABC</label><br>
+        <input type="checkbox" name="amenities" id="pqr"><label for="pqr">PQR</label><br>
+        <label for="city">Select City: </label>
+        <select name="city" id="city">
+            <option value="null">Select City name</option>
+            <option value="Dombivli">Dombivli</option>
+            <option value="Nahur">Nahur</option>
+            <option value="Kalyan">Kalyan</option>
+            <option value="Thane">Thane</option>
+        </select>
+        <br>
+        <label for="color">Choose color: </label>
+        <input type="color" name="color" id="color">
+        <br>
+        <label for="resume">Upload a resume: </label>
+        <input type="file">
+        <br>
+        <div style="display: flex; justify-content: center;">
+        <button style="margin-right: 2px;">Manual</button>
+        <button style="margin-right: 2px;">Submit</button>
+        <button>Clear</button>
+        </div>
+    </form>
+</body>
+</html>
+02/08/23, 5:54 pm - Ojas: IP Assignment 1 Prac 1
+02/08/23, 5:54 pm - Aditya: Tu run kele ka
+02/08/23, 5:54 pm - Ojas: hoyy
+02/08/23, 5:54 pm - Ojas: IP Assignment 1 Practical 2
+02/08/23, 5:55 pm - Ojas: 3rd karto try <This message was edited>
+21/08/23, 2:31 pm - Aditya Yadav added Gaurav Kalamkar
+28/08/23, 8:53 am - Gaurav Kalamkar: https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&si=LlDWrgk1H-_KfwD4
+12/10/23, 6:53 pm - Gaurav Kalamkar: Guys
+12/10/23, 6:53 pm - Gaurav Kalamkar: New horizon cha logo ahe ka aplya kade
+12/10/23, 6:54 pm - Aditya: Google kr na
+12/10/23, 6:54 pm - Gaurav Kalamkar: Okay
+12/10/23, 7:02 pm - Gaurav Kalamkar: Guys
+12/10/23, 7:02 pm - Gaurav Kalamkar: Roll number and enrollment number bhejo fatafat
+12/10/23, 7:02 pm - Gaurav Kalamkar: Shelke
+12/10/23, 7:02 pm - Gaurav Kalamkar: @919619610845
+12/10/23, 7:02 pm - Gaurav Kalamkar: Jey pan aplya grp madhe ahey
+12/10/23, 7:02 pm - Aditya: 56
+12/10/23, 7:02 pm - Gaurav Kalamkar: Bce chya
+12/10/23, 7:03 pm - Aditya: 12127022
+56
+12/10/23, 7:03 pm - Gaurav Kalamkar: Tyanchya kadhun roll number and enrollment number magun ghe jara
+12/10/23, 7:03 pm - Ojas: 12127023
+51
+12/10/23, 7:03 pm - Aditya: @919594198343 @917767037449 @919140465958 @918779648646
+12/10/23, 7:04 pm - Gaurav Kalamkar: Jayant cha sirname kay ahe?
+12/10/23, 7:04 pm - Aditya: Singh
+12/10/23, 7:05 pm - Gaurav Kalamkar: Total ahet kiti?
+12/10/23, 7:05 pm - Gaurav Kalamkar: Total 10 ahet na?
+12/10/23, 7:07 pm - Aditya: Ho ig
+12/10/23, 7:15 pm - Jayant: Jayant Singh
+12127031
+60
+12/10/23, 7:16 pm - Sairaj: 12127034.    
+47
+12/10/23, 7:17 pm - Aditya Yadav: 12127030
+71
+12/10/23, 8:06 pm - Gaurav Kalamkar: Guys
+12/10/23, 8:07 pm - Gaurav Kalamkar: Hyachyi story khup mothi ahe
+12/10/23, 8:07 pm - Gaurav Kalamkar: Madam ne vicharla tar yayala pahijey aplyla
+12/10/23, 8:07 pm - Gaurav Kalamkar: Plus tya maam ne vachli ahe hi book
+12/10/23, 8:07 pm - Gaurav Kalamkar: Asa ti lab madhe boleli
+12/10/23, 8:07 pm - Gaurav Kalamkar: So ks
+12/10/23, 8:07 pm - Gaurav Kalamkar: Dusri book ghaychi ka
+12/10/23, 8:07 pm - Gaurav Kalamkar: Maam la mi adhi ek topic dilela
+12/10/23, 8:07 pm - Gaurav Kalamkar: Atomic habits
+12/10/23, 8:08 pm - Gaurav Kalamkar: Tar maan bolleli chalel
+12/10/23, 8:08 pm - Gaurav Kalamkar: Mhanun
+12/10/23, 8:08 pm - Gaurav Kalamkar: Apla tasa pan presentation udya nahi ahe
+12/10/23, 8:08 pm - Gaurav Kalamkar: Fakt book report submission ahe
+12/10/23, 8:08 pm - Gaurav Kalamkar: Mi atomic habits ardi vachli ahe
+12/10/23, 8:08 pm - Gaurav Kalamkar: Tar mi thoda thoda tumhala explain karin
+12/10/23, 8:08 pm - Gaurav Kalamkar: Kay karu mag?
+12/10/23, 8:08 pm - Gaurav Kalamkar: Atomic habits var banvu ka?
+12/10/23, 8:17 pm - Aditya Yadav: Ho
+12/10/23, 11:14 pm - Sairaj: chalel bhai
+12/10/23, 11:37 pm - Gaurav Kalamkar: <Media omitted>
+12/10/23, 11:37 pm - Gaurav Kalamkar: Guys check karun ghya
+12/10/23, 11:37 pm - Gaurav Kalamkar: ekda vachun ghya
+12/10/23, 11:38 pm - Gaurav Kalamkar: sagla barobar ahe ki nahi tey
+13/10/23, 12:25 am - Aditya removed Gaurav
+12/10/23, 11:44 pm - Aditya Yadav: Title kite runner aahi aani summary aahi atomic habits
+12/10/23, 11:48 pm - Gaurav Kalamkar: Haa magg tevdha change kaeun ghein udya
+12/10/23, 11:48 pm - Gaurav Kalamkar: Ajun kay kay ahe tey sang jara
+12/10/23, 11:48 pm - Gaurav Kalamkar: Mag udya uthlavar change karun ghein
+12/10/23, 11:48 pm - Gaurav Kalamkar: Kivva tey laptop varun pan change karta yeil
+12/10/23, 11:48 pm - Gaurav Kalamkar: Print anaychi ahe ka?
+12/10/23, 11:55 pm - Sairaj: ma’am la adhi dakhvu softcopy natr print maru
+12/10/23, 11:56 pm - Gaurav Kalamkar: Okay
+12/10/23, 11:56 pm - Gaurav Kalamkar: Errors ahet ka ajun?
+12/10/23, 11:56 pm - Sairaj: kasle?
+13/10/23, 12:26 am - Aditya: <Media omitted>
+15/10/23, 10:36 am - Sairaj: CN ch IA 1 ch paper asel tr send kra
+15/10/23, 11:26 am - Jayant: <Media omitted>
+15/10/23, 11:47 am - Gaurav Kalamkar: .
+15/10/23, 11:47 am - Gaurav Kalamkar: @919619610845
+15/10/23, 9:12 pm - Aditya Yadav: <Media omitted>
+15/10/23, 9:12 pm - Aditya Yadav: <Media omitted>
+15/10/23, 9:12 pm - Aditya Yadav: <Media omitted>
+15/10/23, 9:12 pm - Aditya Yadav: <Media omitted>
+15/10/23, 9:12 pm - Aditya Yadav: <Media omitted>
+15/10/23, 9:12 pm - Aditya Yadav: <Media omitted>
+15/10/23, 9:12 pm - Aditya Yadav: <Media omitted>
+15/10/23, 10:27 pm - Gaurav Kalamkar: Oye
+15/10/23, 10:27 pm - Gaurav Kalamkar: Aplya madhun koni tari kar ppt udya bce cha pan presentation ahe
+15/10/23, 10:32 pm - Sairaj: null
+15/10/23, 10:35 pm - Aditya: Tu krt hota na
+15/10/23, 10:38 pm - Gaurav Kalamkar: bhava saglach karu ka aata
+15/10/23, 10:38 pm - Gaurav Kalamkar: report 25 pages cha tar kela aata
+15/10/23, 10:38 pm - Gaurav Kalamkar: tumhala bollelo na koni tari karun ghya
+16/10/23, 10:10 am - Sairaj: <Media omitted>
+16/10/23, 10:10 am - Sairaj: <Media omitted>
+16/10/23, 10:12 am - Gaurav Kalamkar: https://www.canva.com/design/DAFxYNQ05lw/MiLTn7UNAoJpV5WZj_TfIA/edit?utm_content=DAFxYNQ05lw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+16/10/23, 11:41 am - Sairaj: Sodla tr ya library maddhe aahe me
+16/10/23, 11:41 am - Sairaj: @919619610845 basun detat aahet library maddhe
+16/10/23, 11:48 am - Gaurav Kalamkar: Bce cha 5 pasun pudhche ahet ka assignment
+18/10/23, 11:51 am - Aditya Yadav: <Media omitted>
+19/10/23, 11:30 am - Aditya Yadav: <Media omitted>
+19/10/23, 11:30 am - Aditya Yadav: <Media omitted>
+19/10/23, 11:30 am - Aditya Yadav: <Media omitted>
+19/10/23, 11:30 am - Aditya Yadav: <Media omitted>
+19/10/23, 11:33 am - Aditya Yadav: <Media omitted>
+19/10/23, 11:33 am - Aditya Yadav: <Media omitted>
+19/10/23, 11:33 am - Aditya Yadav: <Media omitted>
+19/10/23, 11:33 am - Aditya Yadav: <Media omitted>
+19/10/23, 11:33 am - Aditya: <Media omitted>
+19/10/23, 11:33 am - Aditya: <Media omitted>
+19/10/23, 11:33 am - Aditya: <Media omitted>
+19/10/23, 11:33 am - Aditya: <Media omitted>
+19/10/23, 11:33 am - Aditya: <Media omitted>
+19/10/23, 11:33 am - Aditya: <Media omitted>
+19/10/23, 7:01 pm - Ojas: <Media omitted>
+19/10/23, 7:01 pm - Ojas: <Media omitted>
+19/10/23, 7:06 pm - Ojas: <Media omitted>
+20/10/23, 1:57 pm - Aditya Yadav: <Media omitted>
+22/10/23, 10:53 am - Sairaj: TCS question bank?
+22/10/23, 11:00 am - Aditya Yadav: Classroom check kar.
+22/10/23, 11:01 am - Sairaj: Aali aahe?
+22/10/23, 11:01 am - Aditya: Yes
+22/10/23, 11:01 am - Aditya Yadav: Ho
+22/10/23, 11:01 am - Sairaj: 19 questions
+22/10/23, 11:01 am - Sairaj: Az
+22/10/23, 11:02 am - Aditya Yadav: Yachya pekshya jqst aahit
+22/10/23, 11:02 am - Aditya Yadav: Jast*
+22/10/23, 11:04 am - Sairaj: Az
+22/10/23, 11:04 am - Sairaj: Tine qb mhnun syllabus dila aahe purna
+22/10/23, 11:24 am - Gaurav Kalamkar: 😂😂😂
+22/10/23, 11:24 am - Gaurav Kalamkar: Pahila tcs ahe?
+22/10/23, 11:24 am - Gaurav Kalamkar: Timetable pathva na
+22/10/23, 11:43 am - Sairaj: Mail vr aalay
+22/10/23, 8:06 pm - Gaurav Kalamkar: Guys, in-between lecture presentation ghaychay saglya class samor <This message was edited>
+22/10/23, 8:06 pm - Gaurav Kalamkar: ki 3 nantar patkan karun gheuya
+22/10/23, 8:08 pm - Sairaj: Bhai b2 practical aahe theva deushkto
+22/10/23, 8:08 pm - Gaurav Kalamkar: maam ne allow kela tar tevha gheuya ,ag
+22/10/23, 8:08 pm - Gaurav Kalamkar: mag*
+22/10/23, 8:08 pm - Sairaj: Haa
+25/10/23, 1:47 pm - Gaurav Kalamkar: Bhai
+25/10/23, 1:47 pm - Gaurav Kalamkar: Tya main grp var msg kara
+25/10/23, 1:47 pm - Gaurav Kalamkar: Ki nahi jamnar submission mhanun
+25/10/23, 2:46 pm - Sairaj: Question bank SE Chi aahe ka?
+25/10/23, 2:46 pm - Sairaj: Zhal nhi ka tuj?
+25/10/23, 2:48 pm - Aditya: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 3:28 pm - Aditya Yadav: <Media omitted>
+25/10/23, 4:02 pm - Gaurav Kalamkar: Nahi
+25/10/23, 4:02 pm - Gaurav Kalamkar: Dwm baki ahe
+25/10/23, 5:15 pm - Sairaj: Accha
+25/10/23, 6:20 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 8:00 pm - Aditya Yadav: <Media omitted>
+25/10/23, 11:41 pm - Gaurav Kalamkar: Bhavano
+25/10/23, 11:41 pm - Gaurav Kalamkar: Se che outputs ahet ka?
+25/10/23, 11:41 pm - Gaurav Kalamkar: Mazhya kade nahi ahet kadhi pasun shodtoy
+25/10/23, 11:49 pm - Sairaj: Are te mini project ch aahe group wise
+25/10/23, 11:49 pm - Gaurav Kalamkar: Kasa karycha tey
+25/10/23, 11:50 pm - Gaurav Kalamkar: Tey pan nahi mahiti mala
+25/10/23, 11:50 pm - Gaurav Kalamkar: Haa sunny tar kahi karnar nahi
+25/10/23, 11:50 pm - Gaurav Kalamkar: Malach karun dyava lagel
+25/10/23, 11:50 pm - Gaurav Kalamkar: Tumchya paiki konacha tari output dya
+25/10/23, 11:50 pm - Sairaj: MLA pan nhi mhit
+25/10/23, 11:50 pm - Gaurav Kalamkar: Ti thodi mini project baghel
+25/10/23, 11:51 pm - Sairaj: Use case diagram testing te srva aahe ig
+25/10/23, 11:51 pm - Gaurav Kalamkar: Arey yaar
+25/10/23, 11:51 pm - Gaurav Kalamkar: 😭
+25/10/23, 11:51 pm - Sairaj: Me nhi krnar uday SE submition
+26/10/23, 1:33 pm - Gaurav Kalamkar: <Media omitted>
+26/10/23, 1:33 pm - Gaurav Kalamkar: <Media omitted>
+26/10/23, 1:33 pm - Gaurav Kalamkar: <Media omitted>
+26/10/23, 1:33 pm - Gaurav Kalamkar: <Media omitted>
+26/10/23, 2:12 pm - Gaurav Kalamkar: Hev khali pathavtoy
+26/10/23, 2:12 pm - Gaurav Kalamkar: Tyat naav nahi ahe mazha
+26/10/23, 2:12 pm - Gaurav Kalamkar: <Media omitted>
+26/10/23, 2:12 pm - Gaurav Kalamkar: <Media omitted>
+26/10/23, 2:12 pm - Gaurav Kalamkar: <Media omitted>
+26/10/23, 2:14 pm - Jayant: <Media omitted>
+26/10/23, 2:33 pm - Aditya Yadav: Link
+26/10/23, 2:42 pm - Gaurav Kalamkar: Link nahi ahe mazhya kade
+26/10/23, 2:42 pm - Gaurav Kalamkar: Thamb baghto vicharun
+26/10/23, 2:42 pm - Gaurav Kalamkar: https://www.mahayouthnet.in/
+26/10/23, 2:43 pm - Gaurav Kalamkar: <Media omitted>
+26/10/23, 2:43 pm - Gaurav Kalamkar: Hey ans ahet
+26/10/23, 2:43 pm - Aditya Yadav: Okay
+26/10/23, 2:50 pm - Aditya Yadav: Kas olkhaych hey qns
+26/10/23, 2:50 pm - Aditya Yadav: Ans
+26/10/23, 3:57 pm - Gaurav Kalamkar: Answer pathva ma
+26/10/23, 3:57 pm - Gaurav Kalamkar: Yache
+26/10/23, 7:29 pm - Sairaj added तन्मय देशमुख
+26/10/23, 7:29 pm - Sairaj: @919637638528 yhala SE CHE EXP PATHVA
+26/10/23, 7:29 pm - Sairaj: konakade asep tyane
+27/10/23, 3:11 pm - Jayant: <Media omitted>
+27/10/23, 9:43 pm - Gaurav Kalamkar: Hey wale 8th ahe ka
+27/10/23, 9:43 pm - Gaurav Kalamkar: Output?
+27/10/23, 9:43 pm - Gaurav Kalamkar: @917767037449
+27/10/23, 9:44 pm - Gaurav Kalamkar: Guys
+27/10/23, 9:44 pm - Gaurav Kalamkar: Fatafat batao
+27/10/23, 9:44 pm - Gaurav Kalamkar: @919619610845
+27/10/23, 9:44 pm - Gaurav Kalamkar: @919637638528
+27/10/23, 9:46 pm - Aditya: Idea nhi re
+27/10/23, 9:47 pm - Gaurav Kalamkar: Okayy
+27/10/23, 9:47 pm - तन्मय देशमुख: Tu chukichy mansla vicharla😂
+27/10/23, 9:47 pm - Gaurav Kalamkar: 😂😂😂😂
+27/10/23, 9:49 pm - Aditya Yadav: Ho
+28/10/23, 11:57 am - Sairaj: SE output pathva tase me maja project che shodhto
+28/10/23, 12:42 pm - Gaurav Kalamkar: <Media omitted>
+28/10/23, 12:42 pm - Gaurav Kalamkar: <Media omitted>
+28/10/23, 12:42 pm - Gaurav Kalamkar: <Media omitted>
+28/10/23, 12:42 pm - Gaurav Kalamkar: <Media omitted>
+28/10/23, 12:42 pm - Gaurav Kalamkar: <Media omitted>
+28/10/23, 12:42 pm - Gaurav Kalamkar: <Media omitted>
+28/10/23, 2:58 pm - Sairaj: SE CH ASSIGNMEMT 3 extra aahe pahije ka konala?
+28/10/23, 3:14 pm - Jayant: Experiment 10 hai
+28/10/23, 3:15 pm - Sairaj: <Media omitted>
+28/10/23, 3:15 pm - Sairaj: <Media omitted>
+28/10/23, 4:11 pm - Sairaj: <Media omitted>
+28/10/23, 4:17 pm - तन्मय देशमुख: This message was deleted
+29/10/23, 11:36 am - तन्मय देशमुख: Output pathva re CN SE DWM*
+29/10/23, 2:09 pm - Sairaj: <Media omitted>
+30/10/23, 9:50 am - Gaurav Kalamkar: dwm cha outputs ahet ka?
+30/10/23, 9:50 am - Gaurav Kalamkar: patkan pathva astil tar
+30/10/23, 9:51 am - Aditya Yadav: Hey bqg
+30/10/23, 1:08 pm - Sairaj: <Media omitted>
+30/10/23, 1:08 pm - Sairaj: <Media omitted>
+30/10/23, 1:08 pm - Sairaj: <Media omitted>
+30/10/23, 1:08 pm - Sairaj: <Media omitted>
+30/10/23, 1:22 pm - Sairaj: <Media omitted>
+30/10/23, 1:22 pm - Sairaj: <Media omitted>
+30/10/23, 1:22 pm - Sairaj: <Media omitted>
+30/10/23, 1:22 pm - Sairaj: <Media omitted>
+30/10/23, 9:26 pm - Gaurav Kalamkar: Ip chi qb pathva
+30/10/23, 9:36 pm - Gaurav Kalamkar: @919619610845
+30/10/23, 9:36 pm - Gaurav Kalamkar: ?
+30/10/23, 10:11 pm - Gaurav Kalamkar: Bhai
+30/10/23, 10:11 pm - Gaurav Kalamkar: Pathva koni tari
+30/10/23, 10:11 pm - Gaurav Kalamkar: 🙂🙂🙂
+30/10/23, 10:15 pm - Aditya: <Media omitted>
+30/10/23, 10:15 pm - Aditya Yadav: Class room check kr
+30/10/23, 10:25 pm - Gaurav Kalamkar: Bhai
+30/10/23, 10:25 pm - Gaurav Kalamkar: Kuthle question yenar ahet
+30/10/23, 10:25 pm - Gaurav Kalamkar: Kahi kalla ka?
+30/10/23, 11:36 pm - Sairaj: 6,8
+30/10/23, 11:38 pm - तन्मय देशमुख: <Media omitted>
+30/10/23, 11:38 pm - Sairaj: Papya 6.8 ghe fakt 15 cconfirm
+30/10/23, 11:38 pm - Sairaj: Confirm*
+30/10/23, 11:40 pm - तन्मय देशमुख: Okay
+01/11/23, 10:24 pm - Sairaj: Assignment 2-3 pathva BCE asel tr
+01/11/23, 10:39 pm - Gaurav Kalamkar: Mala pan redo Sangitlay
+01/11/23, 10:39 pm - Gaurav Kalamkar: Asel tar pathva
+01/11/23, 10:51 pm - Sairaj: <Media omitted>
+01/11/23, 10:51 pm - Sairaj: <Media omitted>
+01/11/23, 10:51 pm - Sairaj: <Media omitted>
+01/11/23, 10:51 pm - Sairaj: <Media omitted>
+01/11/23, 10:51 pm - Sairaj: <Media omitted>
+01/11/23, 10:55 pm - Gaurav Kalamkar: 👍🏻
+02/11/23, 9:32 am - Sairaj: https://youtu.be/_uD1TTjGQWI?si=1PjY5bMUrfu0YSr9
+04/11/23, 7:23 pm - Gaurav Kalamkar: Kona kona che checked zhalet?
+04/11/23, 7:23 pm - Gaurav Kalamkar: Bce che practicals
+04/11/23, 7:23 pm - Gaurav Kalamkar: ?
+07/11/23, 9:44 pm - Gaurav Kalamkar: 4th sem cha result chi pdf ahe ka?
+07/11/23, 9:44 pm - Gaurav Kalamkar: @917767037449 @919619610845
+07/11/23, 9:59 pm - Sairaj: Pdf aahe pan scholarship to chalto is result @919140465958 @919637638528??
+07/11/23, 9:59 pm - Sairaj: Ka*
+07/11/23, 10:17 pm - तन्मय देशमुख: Nahi mahit re
+07/11/23, 10:19 pm - Sairaj: Okay
+08/11/23, 2:08 pm - Gaurav Kalamkar: @919594198343 @919619610845 @917767037449 dwm cha practicals sathi kahi prepare karaychay?
+08/11/23, 5:15 pm - Aditya Yadav: Practical related
+08/11/23, 5:15 pm - Aditya Yadav: Bhava
+10/11/23, 10:17 pm - Gaurav Kalamkar: Guys
+10/11/23, 10:18 pm - Gaurav Kalamkar: Time table pathva na
+10/11/23, 10:18 pm - Gaurav Kalamkar: Final sem cha
+11/11/23, 12:23 am - Sairaj: nhi ye
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:10 pm - Aditya: <Media omitted>
+11/11/23, 8:11 pm - Aditya: <Media omitted>
+11/11/23, 8:11 pm - Aditya: <Media omitted>
+11/11/23, 8:11 pm - Aditya: <Media omitted>
+11/11/23, 8:46 pm - Gaurav Kalamkar: ??
+12/11/23, 4:42 pm - Aditya Yadav: <Media omitted>
+12/11/23, 6:16 pm - Sairaj: Shubh Diwali !! To you and your family.
+15/11/23, 12:32 pm - Jayant: This message was deleted
+15/11/23, 4:39 pm - Your security code with Aditya Yadav changed. Tap to learn more.
+18/11/23, 11:35 am - Jayant: <Media omitted>
+18/11/23, 11:38 am - Gaurav Kalamkar: <Media omitted>
+18/11/23, 11:38 am - Gaurav Kalamkar: <Media omitted>
+18/11/23, 11:38 am - Gaurav Kalamkar: <Media omitted>
+18/11/23, 11:38 am - Gaurav Kalamkar: Ig ye hau
+18/11/23, 11:38 am - Gaurav Kalamkar: But meko solve karne nahi aata
+23/11/23, 11:15 am - Gaurav Kalamkar: guys qustion papers ahet ka?
+23/11/23, 11:16 am - Gaurav Kalamkar: se che?
+23/11/23, 11:16 am - Gaurav Kalamkar: 2018 and 19
+23/11/23, 11:16 am - तन्मय देशमुख: 500₹
+23/11/23, 11:17 am - Gaurav Kalamkar: haa chalel mala de
+23/11/23, 11:17 am - तन्मय देशमुख: Important aahet te deto
+23/11/23, 11:18 am - तन्मय देशमुख: <Media omitted>
+23/11/23, 11:18 am - तन्मय देशमुख: <Media omitted>
+23/11/23, 11:18 am - तन्मय देशमुख: <Media omitted>
+23/11/23, 11:18 am - तन्मय देशमुख: <Media omitted>
+23/11/23, 11:21 am - तन्मय देशमुख: <Media omitted>
+23/11/23, 11:22 am - Aditya: <Media omitted>
+23/11/23, 11:22 am - Aditya: <Media omitted>
+23/11/23, 11:22 am - Aditya: <Media omitted>
+24/11/23, 10:39 am - Aditya Yadav: SE cheats aastil tr send kara @919637638528 @919594198343
+24/11/23, 10:41 am - तन्मय देशमुख: 230+20gst=250
+24/11/23, 10:42 am - Aditya Yadav: ₹250
+24/11/23, 10:42 am - Aditya Yadav: 😂
+24/11/23, 10:42 am - Aditya: Kele send bgh
+24/11/23, 10:42 am - Aditya: Pathv ataa @919637638528
+24/11/23, 10:43 am - तन्मय देशमुख: <Media omitted>
+29/11/23, 8:35 am - Gaurav Kalamkar: Bhai mazha hall ticket aalay ka kona kade?
+29/11/23, 8:36 am - तन्मय देशमुख: Mavshi kade aasel bagh😏
+29/11/23, 8:36 am - Gaurav Kalamkar: Ho milala
+29/11/23, 8:36 am - तन्मय देशमुख: Ha
+02/12/23, 12:33 pm - Gaurav Kalamkar: Priyadarshani ma'am cha number ahe ka?
+02/12/23, 12:36 pm - Ojas: +91 79772 50067
+02/12/23, 12:36 pm - Ojas: 79772 50067
+21/12/23, 12:04 pm - Aditya Yadav: *3-Month Project-Based Upskilling & Training Internship Program* 🌟
+
+✨🎯 *Industry Experts as Mentors:* _Learn from accomplished professionals who guide and inspire your growth_.
+
+✨🤝 *Extensive Collaboration*: _Partnered with 100+ MNCs and ECELL IIT, opening doors to vast opportunities._
+
+✨🚀 *Hands-On Experience:* _Engage in practical projects to gain valuable real-world skills_
+
+*ENROLLMENT FORM BELOW*
+
+Kindly fill this Form link: 
+
+https://forms.gle/DLH7j8PDTA3zK7dt7
+
+*Refferal code -* B382
+
+*Fill this Google form*
+26/12/23, 2:46 pm - Aditya Yadav: *Hello there!*👋
+_Greetings_
+
+_Enroll with us and get a chance to gain internships from reputed companies_ *GOOGLE,PHILIPS,EY,FLIPKART, RAZORPAY, CRED AND MANY MORE 🧾*
+
+Students who take up this program will be rewarded with exciting things like:
+
+*1) Stipend Based Internships (UPTO 25K) 💸*
+*2) Training completion certificate from SKOLAR 👨🏻‍🎓*
+*3) Internship completion certificate 🌟*
+*4) Letter of Recommendation from Mentor 📝*
+*5)_E-MATERIALS AND LIFE TIME ACCESS FOR THE PORTAL*
+
+HURRY AND REGISTER NOW!!! 🎯
+*Refferal code 💰:AMY*
+ 
+
+Students who are interested, fill the enrollment form to know more: 🔗https://forms.gle/QR3GgJghNNPn4cXK6
+06/01/24, 10:58 pm - Gaurav Kalamkar: Guys
+06/01/24, 10:58 pm - Gaurav Kalamkar: Mon aa rahe ho na?
+06/01/24, 10:58 pm - Sairaj: In
+06/01/24, 10:58 pm - Gaurav Kalamkar: Shelke wed yeil
+06/01/24, 10:59 pm - Sairaj: jayant tanmay ojas yadav?
+06/01/24, 11:04 pm - तन्मय देशमुख: 15 chy nantar*
+07/01/24, 5:14 am - Jayant: 15 ka baad
+07/01/24, 9:13 am - Aditya Yadav: 15 nantar
+18/01/24, 12:51 pm - Your security code with Jayant changed. Tap to learn more.
+23/01/24, 6:56 pm - Sairaj: Uday lecture honaret ka?
+23/01/24, 6:56 pm - Gaurav Kalamkar: Mahit nahi rey
+23/01/24, 6:56 pm - Gaurav Kalamkar: Bhai extra project topics astil tar dya jara jyache source xode astil ashe
+23/01/24, 6:57 pm - Sairaj: Ho deto
+24/01/24, 7:26 pm - Sairaj: <Media omitted>
+24/01/24, 7:27 pm - Gaurav Kalamkar: Haa mala pan alela aata just
+24/01/24, 7:27 pm - Gaurav Kalamkar: Football chi team boltoy
+24/01/24, 7:27 pm - Gaurav Kalamkar: Baki kahi nahi
+24/01/24, 7:28 pm - Aditya: Bhava nhi yet re khelt mala foot ball 😂
+24/01/24, 7:29 pm - Gaurav Kalamkar: Tula nahi ghet ahe
+24/01/24, 7:29 pm - Gaurav Kalamkar: Radu nakos
+24/01/24, 7:29 pm - Gaurav Kalamkar: 🙂
+24/01/24, 7:30 pm - Gaurav Kalamkar: Football team bagh
+24/01/24, 7:31 pm - Gaurav Kalamkar: Sairaj 
+Gaurav
+Yadav
+Tanish
+Harshrein
+Sanju
+Yogesh(2nd year)
+Khade
+24/01/24, 7:32 pm - Gaurav Kalamkar: 9 chi team asel
+24/01/24, 7:32 pm - Gaurav Kalamkar: Tar ajun konitari ek gheuya
+24/01/24, 7:33 pm - Sairaj: se madhle bg
+24/01/24, 7:33 pm - Sairaj: SE*
+24/01/24, 7:43 pm - Gaurav Kalamkar: Se madun 2 ach ahet
+24/01/24, 7:43 pm - Gaurav Kalamkar: Hi temporary team ahe
+24/01/24, 7:43 pm - Gaurav Kalamkar: Fix nahi ahe ajun
+24/01/24, 7:43 pm - Sairaj: Prathmesh shelke?
+24/01/24, 8:08 pm - Gaurav Kalamkar: Toh nahi khelnar ahe
+24/01/24, 8:08 pm - Gaurav Kalamkar: Vicharlela tyala
+25/01/24, 12:28 am - Sairaj: ohkay
+25/01/24, 12:33 am - तन्मय देशमुख: Udhya yetay na?
+25/01/24, 7:16 am - Gaurav Kalamkar: This message was deleted
+26/01/24, 11:07 pm - तन्मय देशमुख: Udhay ch Kay seen
+26/01/24, 11:11 pm - Sairaj: yena bhai
+26/01/24, 11:12 pm - Sairaj: tuji match aahe cricket uday
+26/01/24, 11:14 pm - तन्मय देशमुख: Mi tim.madhi aahe?
+26/01/24, 11:14 pm - तन्मय देशमुख: Tu yetoy ka
+26/01/24, 11:47 pm - Sairaj: hoo
+28/01/24, 10:17 pm - Sairaj: POLL:
+Uday college la
+OPTION: In (4 votes)
+OPTION: Out (0 votes)
+
+28/01/24, 10:18 pm - Aditya: Not sure ch option nhi dilas 😂
+28/01/24, 10:19 pm - Sairaj: bro itka confusion ka??
+28/01/24, 10:20 pm - Aditya: Nhi re bhai
+28/01/24, 10:21 pm - Gaurav Kalamkar: Arey baat ko samjha karo
+28/01/24, 10:21 pm - Aditya: Lec nhi ahe na ?
+28/01/24, 10:21 pm - Aditya: Like let alo tr chalty na
+28/01/24, 10:21 pm - Gaurav Kalamkar: Agar wo nahi toh shelke nahi
+28/01/24, 10:21 pm - Gaurav Kalamkar: 😏😏
+28/01/24, 10:21 pm - Sairaj: mulin maddhe rahun hotay 😂
+28/01/24, 10:21 pm - Aditya: 😂
+28/01/24, 10:21 pm - Sairaj: 9:30 10 pryant
+28/01/24, 10:22 pm - Aditya: 10 pryntt yeto mg Bhai
+28/01/24, 10:22 pm - Sairaj: 👍
+29/01/24, 10:16 pm - तन्मय देशमुख: Bhai udhy ch Kay seen
+29/01/24, 10:17 pm - Aditya: Yetoy na tu
+29/01/24, 10:17 pm - तन्मय देशमुख: Ha
+30/01/24, 10:59 pm - Gaurav Kalamkar: Udya yetay na?
+30/01/24, 11:10 pm - Sairaj: out
+01/02/24, 8:16 pm - Gaurav Kalamkar: Bhai
+01/02/24, 8:16 pm - Gaurav Kalamkar: Mazhya black shirt alay ka kona kade
+01/02/24, 8:16 pm - Gaurav Kalamkar: Mi clg madhe anlela
+01/02/24, 8:16 pm - Gaurav Kalamkar: But ata milat nahi ahe
+01/02/24, 8:17 pm - Aditya: CLLG MADHE KAPDE KA KADHTOS MG
+01/02/24, 8:17 pm - Gaurav Kalamkar: Jayesh la dyayla anlela
+01/02/24, 8:17 pm - Gaurav Kalamkar: But bag madhe navtach
+01/02/24, 8:18 pm - Gaurav Kalamkar: @917767037449 tula dila navta na mi?
+01/02/24, 8:18 pm - Gaurav Kalamkar: Mala athvatch nahi ahe
+01/02/24, 8:18 pm - Gaurav Kalamkar: Jayesh la fashion show sath pahijey
+01/02/24, 8:20 pm - Aditya Yadav: Nahi bhava
+01/02/24, 8:32 pm - Gaurav Kalamkar: Okayy
+01/02/24, 8:33 pm - तन्मय देशमुख: Mazykde aahe bhai
+01/02/24, 8:33 pm - Gaurav Kalamkar: Hyachya haath farcture zhalay
+01/02/24, 8:33 pm - Gaurav Kalamkar: 😂😂😂😂
+01/02/24, 8:34 pm - तन्मय देशमुख: 🤦
+01/02/24, 8:34 pm - Gaurav Kalamkar: 😂😂
+01/02/24, 8:34 pm - Gaurav Kalamkar: Mala aaj kalla
+01/02/24, 8:34 pm - Gaurav Kalamkar: Kaushik kadhun
+01/02/24, 8:34 pm - तन्मय देशमुख: Ohhh 🤯
+01/02/24, 8:35 pm - तन्मय देशमुख: Aakhya college la mahiti padly ka?😂
+01/02/24, 8:36 pm - Gaurav Kalamkar: Nay
+01/02/24, 8:36 pm - तन्मय देशमुख: Okay
+01/02/24, 9:15 pm - Ojas: Kai re tanmay yevdha joraat halavlas?
+01/02/24, 10:48 pm - तन्मय देशमुख: 😂
+03/02/24, 11:14 pm - Sairaj: @917208594073 @917767037449 bhai kay kraych uday?
+03/02/24, 11:19 pm - Gaurav Kalamkar: Can zhala na
+03/02/24, 11:19 pm - Gaurav Kalamkar: Mi janar ahe tasa pan
+03/02/24, 11:19 pm - Gaurav Kalamkar: Jayesh kade ek kaam ahe
+03/02/24, 11:19 pm - Sairaj: bhai me pan aeto pool khelu
+03/02/24, 11:25 pm - Gaurav Kalamkar: Haa ye na
+04/02/24, 6:16 pm - तन्मय देशमुख: Udhya ch Kay seen?
+04/02/24, 6:24 pm - Sairaj: register kelays ka?
+04/02/24, 6:26 pm - तन्मय देशमुख: Ha
+04/02/24, 6:26 pm - Sairaj: ye m 11:30 pryant
+04/02/24, 6:27 pm - तन्मय देशमुख: Ok
+06/02/24, 8:39 pm - Sairaj: POLL:
+uday clg
+OPTION: In (3 votes)
+OPTION: Out (2 votes)
+
+06/02/24, 8:44 pm - Jayant: Maybe
+06/02/24, 8:46 pm - तन्मय देशमुख: Monday
+06/02/24, 8:46 pm - Sairaj: hath bara aahe ka re
+06/02/24, 8:46 pm - तन्मय देशमुख: Ha
+06/02/24, 8:47 pm - तन्मय देशमुख: null
+06/02/24, 8:48 pm - Sairaj: dusra pan jama hoil sambhalun
+06/02/24, 8:48 pm - तन्मय देशमुख: 😂
+06/02/24, 8:48 pm - Jayant: Dedication Bhai ka 🔥
+06/02/24, 8:49 pm - तन्मय देशमुख: Bhi tu jinda hai
+06/02/24, 8:49 pm - Jayant: Ha
+06/02/24, 8:49 pm - तन्मय देशमुख: College kyun nahi aata <This message was edited>
+06/02/24, 8:50 pm - Jayant: ?
+06/02/24, 8:51 pm - तन्मय देशमुख: College*
+06/02/24, 8:52 pm - Jayant: Ma ata hu tu nahi nahi ata hai
+06/02/24, 8:52 pm - तन्मय देशमुख: Kitna din aaya re tu
+07/02/24, 6:16 am - Gaurav Kalamkar: Guys neend pura nahi hua hai
+07/02/24, 6:16 am - Gaurav Kalamkar: Clg nahi aa raha
+07/02/24, 12:26 pm - Gaurav Kalamkar: Koni gelay ka clg la?
+07/02/24, 12:26 pm - Gaurav Kalamkar: Practicals vaigare chalu ahet ka?
+07/02/24, 12:27 pm - Aditya Yadav: Nahi ree
+07/02/24, 12:27 pm - Aditya Yadav: Leacture cancel jale
+07/02/24, 12:27 pm - Gaurav Kalamkar: Okay
+07/02/24, 12:27 pm - Aditya Yadav: Haha
+07/02/24, 12:27 pm - Gaurav Kalamkar: Kaa?
+07/02/24, 12:27 pm - Aditya Yadav added 👑Atharva👑
+07/02/24, 12:27 pm - Gaurav Kalamkar: Clg nagi mhanje aaj?
+07/02/24, 12:28 pm - Aditya Yadav: Kay mahit 2 Leacture jale
+07/02/24, 12:28 pm - Gaurav Kalamkar: Accha
+07/02/24, 12:28 pm - तन्मय देशमुख: Roj kiti hotat mg?
+07/02/24, 12:29 pm - Aditya Yadav: 3 te 4
+07/02/24, 12:29 pm - तन्मय देशमुख: Accha
+07/02/24, 1:42 pm - Aditya Yadav: Tu kadhi yetoy
+07/02/24, 1:54 pm - तन्मय देशमुख: Monday
+07/02/24, 9:55 pm - 👑Atharva👑: Udya clg la kon kon ynr aahe ?
+07/02/24, 10:03 pm - Sairaj: In
+08/02/24, 9:13 am - 👑Atharva👑: 1st lec la proxy lava mazi 64
+08/02/24, 10:33 am - Sairaj: <Media omitted>
+08/02/24, 10:33 am - Sairaj: <Media omitted>
+08/02/24, 10:33 am - Jayant: 👍
+08/02/24, 10:41 am - Gaurav Kalamkar: <Media omitted>
+08/02/24, 12:03 pm - Sairaj: <Media omitted>
+09/02/24, 10:27 am - Sairaj: <Media omitted>
+09/02/24, 10:27 am - Sairaj: <Media omitted>
+09/02/24, 10:28 am - 👑Atharva👑: 64 lav
+09/02/24, 10:29 am - Sairaj: Who are you?
+09/02/24, 10:31 am - 👑Atharva👑: <Media omitted>
+09/02/24, 10:31 am - Sairaj: sign copy nhi krta yetay Tuji Ojas yadav chi
+09/02/24, 10:31 am - Ojas: Thank you Sairaj
+09/02/24, 10:31 am - Aditya: Are bhai to form ksala ahe khi idea ahe ka
+09/02/24, 10:32 am - 👑Atharva👑: Kr ky pn chalel
+09/02/24, 10:32 am - Aditya: <Media omitted>
+09/02/24, 10:32 am - Sairaj: Brr
+09/02/24, 10:32 am - 👑Atharva👑: Ha
+09/02/24, 10:32 am - Sairaj: Mu ch aahe
+09/02/24, 10:34 am - Sairaj: <Media omitted>
+10/02/24, 7:50 pm - तन्मय देशमुख: Guys Monday?
+10/02/24, 7:51 pm - Aditya: In
+10/02/24, 8:03 pm - Sairaj: 😂
+10/02/24, 8:05 pm - तन्मय देशमुख: 😂
+10/02/24, 8:33 pm - Aditya: <Media omitted>
+10/02/24, 8:33 pm - Aditya: <Media omitted>
+10/02/24, 8:33 pm - Aditya: <Media omitted>
+10/02/24, 8:33 pm - Aditya: <Media omitted>
+10/02/24, 8:33 pm - Aditya: <Media omitted>
+12/02/24, 10:05 am - Ojas: https://link.clashofclans.com/en?action=OpenClanProfile&tag=2RPLP2GYG
+12/02/24, 10:06 am - 👑Atharva👑: Clg la gelay ka kon ?
+12/02/24, 10:06 am - Aditya Yadav: Ho sagle
+12/02/24, 10:08 am - 👑Atharva👑: Proxy lava mazi
+12/02/24, 10:08 am - Gaurav Kalamkar: Mazhi pan lava
+12/02/24, 10:09 am - Gaurav Kalamkar: Pliz
+12/02/24, 10:30 am - Sairaj: Hoio
+12/02/24, 12:09 pm - तन्मय देशमुख: <Media omitted>
+12/02/24, 12:14 pm - 👑Atharva👑: Mc ghari hoto na😂
+12/02/24, 2:48 pm - Sairaj: <Media omitted>
+12/02/24, 2:48 pm - Sairaj: <Media omitted>
+12/02/24, 3:05 pm - तन्मय देशमुख: Are madrchod 🤦
+12/02/24, 3:13 pm - Gaurav Kalamkar: 😂😂😂
+12/02/24, 10:47 pm - Ojas: <Media omitted>
+12/02/24, 10:47 pm - Ojas: <Media omitted>
+12/02/24, 10:47 pm - Ojas: <Media omitted>
+12/02/24, 10:47 pm - Aditya Yadav: Tu lihalas
+12/02/24, 10:47 pm - Ojas: <Media omitted>
+12/02/24, 10:47 pm - Ojas: <Media omitted>
+12/02/24, 10:48 pm - Ojas: <Media omitted>
+12/02/24, 10:48 pm - Ojas: <Media omitted>
+12/02/24, 10:48 pm - Ojas: <Media omitted>
+12/02/24, 10:48 pm - Ojas: <Media omitted>
+12/02/24, 10:48 pm - Ojas: Haaa, copy karun lihila aahe
+12/02/24, 10:48 pm - Aditya: Konta sub ahe
+12/02/24, 10:48 pm - Ojas: Iot assignment
+13/02/24, 10:04 am - तन्मय देशमुख: Kuthe aahe
+13/02/24, 10:16 am - 👑Atharva👑: <Media omitted>
+13/02/24, 10:57 am - तन्मय देशमुख: <Media omitted>
+13/02/24, 11:08 am - Gaurav Kalamkar: 😂😂😂
+13/02/24, 11:44 am - Gaurav Kalamkar: <Media omitted>
+13/02/24, 11:44 am - Gaurav Kalamkar: <Media omitted>
+13/02/24, 11:44 am - Gaurav Kalamkar: <Media omitted>
+13/02/24, 11:44 am - Gaurav Kalamkar: <Media omitted>
+13/02/24, 11:45 am - Jayant: Mera dala na
+13/02/24, 11:47 am - Gaurav Kalamkar: Kiya
+13/02/24, 11:47 am - Gaurav Kalamkar: Siddhi ne
+13/02/24, 11:47 am - Jayant: Nahi ha dek
+13/02/24, 11:47 am - Gaurav Kalamkar: Bhai mei bola tha mera attendance lagane ko last lec ka
+13/02/24, 11:47 am - Jayant: <Media omitted>
+13/02/24, 11:48 am - Gaurav Kalamkar: Kisini lagaya hi nahi
+13/02/24, 11:48 am - Gaurav Kalamkar: Arey abhi daala hai
+13/02/24, 11:48 am - Gaurav Kalamkar: Bola siddhi ko
+13/02/24, 11:48 am - Gaurav Kalamkar: Usne kardiya
+13/02/24, 11:48 am - Gaurav Kalamkar: Mera absent dikha raha hai last lec mc ka
+13/02/24, 11:48 am - Gaurav Kalamkar: 🙁
+13/02/24, 11:49 am - Jayant: <Media omitted>
+13/02/24, 11:50 am - Gaurav Kalamkar: Arey bhai tera msg dekhke daal liya siddhi ne waha
+13/02/24, 11:06 pm - Ojas: Bhai Spcc cha assignment kai aahe
+13/02/24, 11:06 pm - Ojas: ?
+13/02/24, 11:22 pm - Sairaj: Nhi mahiti
+13/02/24, 11:23 pm - Ojas: Accha
+14/02/24, 10:12 am - Sairaj: <Media omitted>
+14/02/24, 10:45 am - Sairaj: <Media omitted>
+14/02/24, 11:13 am - Ojas: He diagram
+14/02/24, 11:13 am - Ojas: <Media omitted>
+14/02/24, 11:13 am - Ojas: Iotchya last pagevr add krrr
+14/02/24, 11:14 am - Ojas: .
+15/02/24, 9:32 am - Sairaj: Attendance jml tr lava 37
+15/02/24, 9:37 am - Aditya Yadav: Ha bahava
+15/02/24, 9:48 am - 👑Atharva👑: 64 pn
+15/02/24, 7:43 pm - तन्मय देशमुख: Hii udhya Yetay ka?
+15/02/24, 7:47 pm - Sairaj: Hoo
+15/02/24, 7:47 pm - तन्मय देशमुख: Okay
+20/02/24, 7:01 am - Gaurav Kalamkar: Guys
+20/02/24, 7:02 am - Gaurav Kalamkar: Attendance laga do
+20/02/24, 7:02 am - Gaurav Kalamkar: Start ke 2 lecs ke agar jama toh
+20/02/24, 7:02 am - Gaurav Kalamkar: Roll no 17
+20/02/24, 7:11 am - Aditya: roll no 44
+20/02/24, 11:16 am - 👑Atharva👑: 64 pn lava
+20/02/24, 6:21 pm - Gaurav Kalamkar: https://drive.google.com/drive/folders/1PopDbKnHlbFZ9axvRZhpw6bJH2dxM2CQ
+20/02/24, 9:50 pm - Gaurav Kalamkar: Pnr number kuthun shodyacha?
+20/02/24, 9:52 pm - Jayant: <Media omitted>
+20/02/24, 10:11 pm - Sairaj: Poll vote kra sagle
+20/02/24, 10:11 pm - Sairaj: Csd te iv cha
+20/02/24, 10:11 pm - Gaurav Kalamkar: Kay karu
+20/02/24, 10:12 pm - Gaurav Kalamkar: Out of station na
+20/02/24, 10:12 pm - Gaurav Kalamkar: ?
+20/02/24, 10:12 pm - Sairaj: Hoo
+20/02/24, 10:13 pm - Sairaj: @918779648646@917767037449 @919140465958 @919619610845 @919637638528
+20/02/24, 10:13 pm - Sairaj: Baki pan lvkr kra
+20/02/24, 10:13 pm - Aditya: Kela
+20/02/24, 10:13 pm - Sairaj: Okay
+20/02/24, 10:16 pm - तन्मय देशमुख: Udhay??
+20/02/24, 10:17 pm - Sairaj: In
+20/02/24, 10:44 pm - Gaurav Kalamkar: In
+20/02/24, 11:34 pm - Aditya Yadav: Kothey poll
+20/02/24, 11:34 pm - Sairaj: Grp vr csd cha
+20/02/24, 11:50 pm - 👑Atharva👑: Udya presenty lava re mazi 64
+21/02/24, 9:51 am - Jayant: <Media omitted>
+21/02/24, 9:51 am - Jayant: <Media omitted>
+21/02/24, 9:51 am - Jayant: <Media omitted>
+21/02/24, 9:51 am - Jayant: <Media omitted>
+21/02/24, 9:52 am - Jayant: <Media omitted>
+21/02/24, 9:52 am - Jayant: <Media omitted>
+21/02/24, 9:52 am - Jayant: <Media omitted>
+21/02/24, 9:52 am - Jayant: <Media omitted>
+21/02/24, 9:52 am - Jayant: <Media omitted>
+21/02/24, 9:52 am - Jayant: <Media omitted>
+21/02/24, 9:52 am - Jayant: <Media omitted>
+21/02/24, 9:52 am - Jayant: <Media omitted>
+21/02/24, 9:52 am - Jayant: <Media omitted>
+21/02/24, 10:03 am - 👑Atharva👑: Lava re
+21/02/24, 10:11 am - तन्मय देशमुख: Ha re
+21/02/24, 11:48 am - Jayant: <Media omitted>
+21/02/24, 11:48 am - Jayant: <Media omitted>
+21/02/24, 11:48 am - Jayant: <Media omitted>
+21/02/24, 11:48 am - Jayant: <Media omitted>
+21/02/24, 11:49 am - Jayant: Koi bacha to baatao
+21/02/24, 11:49 am - Gaurav Kalamkar: Jeel ka bhi karna
+21/02/24, 11:50 am - Jayant: Done
+21/02/24, 10:23 pm - Gaurav Kalamkar: Kal clg in na?
+21/02/24, 10:24 pm - तन्मय देशमुख: In
+21/02/24, 10:24 pm - Aditya: In
+21/02/24, 10:25 pm - 👑Atharva👑: in
+21/02/24, 10:56 pm - Sairaj: In
+22/02/24, 9:40 pm - Gaurav Kalamkar: Bhai
+22/02/24, 9:40 pm - Gaurav Kalamkar: Tt pathva na
+22/02/24, 9:40 pm - Gaurav Kalamkar: Ia cha
+22/02/24, 10:04 pm - Sairaj: Nhi aalay
+22/02/24, 10:04 pm - Sairaj: Ajun
+22/02/24, 10:12 pm - Gaurav Kalamkar: Start kadhi honar ahe?
+22/02/24, 10:15 pm - Sairaj: 4 la probably
+22/02/24, 10:23 pm - Gaurav Kalamkar: Okay
+22/02/24, 10:23 pm - Gaurav Kalamkar: And sampnar kadhi?
+22/02/24, 10:23 pm - Gaurav Kalamkar: End date havi hoti
+22/02/24, 10:23 pm - Sairaj: 7
+22/02/24, 10:23 pm - Gaurav Kalamkar: Okayyy
+22/02/24, 10:23 pm - Sairaj: .
+22/02/24, 10:23 pm - तन्मय देशमुख: Guys udhya yetay?
+22/02/24, 10:23 pm - Gaurav Kalamkar: No
+22/02/24, 10:24 pm - Gaurav Kalamkar: Out
+22/02/24, 10:24 pm - तन्मय देशमुख: Okay
+22/02/24, 10:24 pm - तन्मय देशमुख: Mi pan out
+22/02/24, 10:25 pm - 👑Atharva👑: In
+25/02/24, 12:47 am - Aditya Yadav: <Media omitted>
+25/02/24, 12:47 am - Aditya Yadav: Forward reference problem
+25/02/24, 12:47 am - Aditya Yadav: Difference between single pass assembler and 2 pass assembler
+25/02/24, 3:56 pm - Aditya Yadav: Assignment send Kara 2nd kont pan
+25/02/24, 3:56 pm - Aditya Yadav: Mc 1st val
+25/02/24, 6:35 pm - Aditya: Udya cllg ?
+25/02/24, 6:40 pm - 👑Atharva👑: In
+25/02/24, 6:45 pm - तन्मय देशमुख: In
+25/02/24, 7:09 pm - Gaurav Kalamkar: In
+25/02/24, 10:58 pm - Sairaj: Parathe aantoy uday ye nkii
+25/02/24, 11:28 pm - 👑Atharva👑: Ho bhava
+25/02/24, 11:28 pm - 👑Atharva👑: Sauce aanu ka
+26/02/24, 12:18 am - Sairaj: Hooo
+26/02/24, 12:12 pm - Aditya: <Media omitted>
+27/02/24, 9:00 am - Sairaj: Lecture la koni yenare
+27/02/24, 9:00 am - Aditya Yadav: Jayach aahi ka?
+27/02/24, 9:01 am - Jayant: Ho
+27/02/24, 9:01 am - Sairaj: Me 9.45 prynt yein
+27/02/24, 9:01 am - Aditya Yadav: Kurta gheun yetoys ki ghalu
+27/02/24, 9:01 am - Aditya Yadav: Ghalun
+27/02/24, 9:01 am - Sairaj: Gheun
+27/02/24, 9:01 am - Sairaj: Clg madhe change kru
+27/02/24, 9:01 am - Sairaj: Tu kidhr hey
+27/02/24, 9:01 am - Aditya Yadav: Ha ha chalel
+27/02/24, 9:02 am - Jayant: College ka bhar
+27/02/24, 9:02 am - Sairaj: 9.45 aalo
+27/02/24, 9:02 am - Sairaj: Proxy laga
+27/02/24, 9:02 am - Jayant: Ok
+27/02/24, 9:02 am - Aditya Yadav: Meri bhai
+27/02/24, 9:03 am - Jayant: Hmm
+27/02/24, 9:03 am - 👑Atharva👑: 64 bhi laga de bhai
+27/02/24, 9:03 am - Gaurav Kalamkar: 17 bhi
+27/02/24, 9:03 am - 👑Atharva👑: Proxy padhte he sab online aajate hai😂
+27/02/24, 9:04 am - 👑Atharva👑 added Prathamesh Shelke
+27/02/24, 9:04 am - Sairaj: Tu
+27/02/24, 9:04 am - 👑Atharva👑: Mi ynrch bahava vishay aahe ka😂😂
+27/02/24, 9:04 am - Sairaj: 10 prynt ye clg la
+27/02/24, 9:04 am - 👑Atharva👑: Ha
+27/02/24, 9:05 am - 👑Atharva👑: Thoda late hoil
+27/02/24, 9:05 am - 👑Atharva👑: Pn yeil tya darmyat
+27/02/24, 9:05 am - Sairaj: Okay
+27/02/24, 10:46 am - Jayant: Shirf 5 student hai MC  ko
+27/02/24, 10:48 am - Gaurav Kalamkar: 🤣
+27/02/24, 10:48 am - Aditya Yadav: Apna lagade
+27/02/24, 10:52 am - Jayant: <Media omitted>
+27/02/24, 10:23 pm - तन्मय देशमुख: Udhay?
+27/02/24, 10:28 pm - Gaurav Kalamkar: In
+27/02/24, 10:30 pm - Aditya: This message was deleted
+27/02/24, 10:36 pm - 👑Atharva👑: Out
+28/02/24, 9:39 am - 👑Atharva👑: 64 lagao re
+28/02/24, 9:40 am - 👑Atharva👑: Kon kon Gaya hai ?
+28/02/24, 9:40 am - तन्मय देशमुख: Kuthe aahe
+28/02/24, 9:40 am - 👑Atharva👑: Ghri
+28/02/24, 9:43 am - तन्मय देशमुख: Bc konich nahi aahe
+28/02/24, 10:16 am - 👑Atharva👑: 😂
+28/02/24, 10:23 am - Prathamesh Shelke: Number bolo
+28/02/24, 10:23 am - 👑Atharva👑: 64
+28/02/24, 10:23 am - Aditya: 44
+28/02/24, 10:23 am - Prathamesh Shelke: 👍
+28/02/24, 10:23 am - Jayant: 47
+28/02/24, 10:23 am - तन्मय देशमुख: 5
+28/02/24, 10:23 am - तन्मय देशमुख: 56
+28/02/24, 10:23 am - Aditya: Lavdya cllg la gela na tu
+28/02/24, 10:23 am - तन्मय देशमुख: 37
+28/02/24, 10:24 am - तन्मय देशमुख: Tula bollo na janar aahe
+28/02/24, 10:24 am - Prathamesh Shelke: Bhai nit samg
+28/02/24, 10:24 am - Prathamesh Shelke: Sang*
+28/02/24, 10:24 am - तन्मय देशमुख: 5/56/37
+28/02/24, 10:38 am - Gaurav Kalamkar: Lagaya hai sabka
+28/02/24, 2:01 pm - Sairaj: Gaurav OP🔥
+28/02/24, 2:02 pm - Gaurav Kalamkar: Tumhi loka kaal pan navta baslat na?
+28/02/24, 2:02 pm - Gaurav Kalamkar: Kalchi pan mc chi lavun takli
+28/02/24, 2:03 pm - Gaurav Kalamkar: 😂😂😂😂
+28/02/24, 2:03 pm - Gaurav Kalamkar: Saglyanchya 2 lavlyla
+28/02/24, 2:09 pm - Sairaj: Are kal 5 mul hoti fkt lec la
+28/02/24, 2:28 pm - Gaurav Kalamkar: Bhai mi takli naava
+28/02/24, 2:28 pm - Gaurav Kalamkar: 😂😂😂
+28/02/24, 2:28 pm - Gaurav Kalamkar: Saglyani add kele
+28/02/24, 2:29 pm - Gaurav Kalamkar: Jaunde
+28/02/24, 2:53 pm - Sairaj: Okay
+28/02/24, 8:47 pm - तन्मय देशमुख: Udhay?
+28/02/24, 8:47 pm - 👑Atharva👑: In
+28/02/24, 8:48 pm - Aditya: In
+28/02/24, 8:48 pm - तन्मय देशमुख: In naka bolu udhy kiti lecture basyche aahet te bola
+28/02/24, 8:48 pm - 👑Atharva👑: Sagle
+28/02/24, 8:49 pm - Aditya: Bhau bola tr Basu mg
+28/02/24, 8:49 pm - तन्मय देशमुख: 😂
+28/02/24, 8:49 pm - Aditya: Pn udya che lec konte ahet
+28/02/24, 8:49 pm - Aditya: ?
+28/02/24, 8:49 pm - तन्मय देशमुख: Bhava la bollo koni tari jod bhetla tar bhau kasla bastoy😂
+28/02/24, 8:50 pm - तन्मय देशमुख: Bhava ch mood lagech change
+28/02/24, 8:52 pm - 👑Atharva👑: 😂
+28/02/24, 9:28 pm - 👑Atharva👑: Iz time table bgha nvin bc
+29/02/24, 10:39 am - 👑Atharva👑: <Media omitted>
+29/02/24, 10:39 am - 👑Atharva👑: <Media omitted>
+29/02/24, 10:39 am - 👑Atharva👑: <Media omitted>
+29/02/24, 10:39 am - 👑Atharva👑: <Media omitted>
+29/02/24, 10:39 am - 👑Atharva👑: <Media omitted>
+29/02/24, 10:39 am - 👑Atharva👑: <Media omitted>
+29/02/24, 10:39 am - 👑Atharva👑: <Media omitted>
+29/02/24, 10:39 am - 👑Atharva👑: <Media omitted>
+29/02/24, 10:52 am - Aditya: <Media omitted>
+29/02/24, 10:52 am - Aditya: <Media omitted>
+29/02/24, 10:52 am - Aditya: <Media omitted>
+29/02/24, 10:52 am - Aditya: <Media omitted>
+29/02/24, 10:52 am - Aditya: <Media omitted>
+29/02/24, 11:37 am - Jayant: <Media omitted>
+29/02/24, 11:38 am - Aditya: <Media omitted>
+29/02/24, 12:02 pm - 👑Atharva👑: Mc la baslay ka kon
+29/02/24, 12:13 pm - Jayant: <Media omitted>
+29/02/24, 12:13 pm - Jayant: <Media omitted>
+29/02/24, 12:13 pm - Jayant: <Media omitted>
+29/02/24, 12:21 pm - Prathamesh Shelke: Bhai majhi laav
+29/02/24, 12:21 pm - Prathamesh Shelke: 66
+29/02/24, 7:48 pm - Gaurav Kalamkar: Udyacha kay scene
+29/02/24, 7:48 pm - तन्मय देशमुख: In
+29/02/24, 7:49 pm - Gaurav Kalamkar: Contri ahe ki zhala manage refer through
+29/02/24, 7:49 pm - 👑Atharva👑: <Media omitted>
+29/02/24, 7:49 pm - Gaurav Kalamkar: Contri asel tar sanga mag aple aple karun ghya
+29/02/24, 7:49 pm - Aditya: Ha 100 chi kryachi ahe
+29/02/24, 7:49 pm - Gaurav Kalamkar: @917767037449
+29/02/24, 7:49 pm - Gaurav Kalamkar: Ghighe la vicharun sang ekda
+29/02/24, 7:49 pm - Aditya: Udya kru sobt sgle
+29/02/24, 7:49 pm - Gaurav Kalamkar: Okayyy
+29/02/24, 7:49 pm - Gaurav Kalamkar: Arry saman anayla lagel na
+29/02/24, 7:49 pm - तन्मय देशमुख: Are thik aahe re... Jar Kami padla tar college madhli bakdka choru🦆🦆😂😂
+29/02/24, 7:50 pm - Gaurav Kalamkar: Paise lagtil
+29/02/24, 7:50 pm - Gaurav Kalamkar: 😂😂😂😂
+29/02/24, 7:50 pm - Aditya: Bus stop la bhetu
+29/02/24, 7:51 pm - Gaurav Kalamkar: Haa
+29/02/24, 7:54 pm - 👑Atharva👑: Mc😂
+29/02/24, 7:56 pm - तन्मय देशमुख: Jayant tu aa raha hai na
+29/02/24, 7:56 pm - Jayant: Haa
+29/02/24, 7:56 pm - तन्मय देशमुख: Sort
+29/02/24, 8:53 pm - Sairaj: <Media omitted>
+29/02/24, 8:54 pm - Sairaj: 50 pp
+29/02/24, 8:54 pm - Aditya: Ok
+29/02/24, 8:54 pm - Aditya: Enough ahe ka 50 ?
+29/02/24, 8:54 pm - Aditya: Te 100 nhi na zale karn claim
+29/02/24, 8:54 pm - Sairaj: 4kg Chiken 900 ani 300 masala
+29/02/24, 8:54 pm - 👑Atharva👑: Kuthle
+29/02/24, 8:55 pm - Aditya: Chapati gheun ya fkt gharun
+29/02/24, 8:55 pm - Sairaj: Are khi lokanche zhale
+29/02/24, 8:55 pm - 👑Atharva👑: Total kiti jana aahot apan
+29/02/24, 8:55 pm - Aditya: Sglyani
+29/02/24, 8:55 pm - Sairaj: 17
+29/02/24, 8:55 pm - Aditya: Itke ????
+29/02/24, 8:55 pm - Sairaj: Bhai room che 7
+29/02/24, 8:55 pm - Sairaj: Aapan count kr
+29/02/24, 8:55 pm - Aditya: Ha brobr
+29/02/24, 8:55 pm - 👑Atharva👑: Haa
+29/02/24, 9:14 pm - Aditya Yadav: Brr
+29/02/24, 9:15 pm - तन्मय देशमुख: Purel ka?
+29/02/24, 9:16 pm - Aditya Yadav: Ha purel ki
+29/02/24, 9:16 pm - 👑Atharva👑: 17 jana aahot bhai
+29/02/24, 9:16 pm - Aditya Yadav: 🙄
+29/02/24, 9:16 pm - Aditya Yadav: Yevdhe
+29/02/24, 9:16 pm - 👑Atharva👑: Ha m
+29/02/24, 9:16 pm - 👑Atharva👑: Toop aahe ka evdha chicken banvayla
+29/02/24, 9:17 pm - Aditya Yadav: Room var 3bhadi aahit
+29/02/24, 9:20 pm - 👑Atharva👑: Mothi aahet ?
+29/02/24, 9:36 pm - Aditya added Aadya_ghige⚡ and +91 70283 97487
+29/02/24, 9:39 pm - Aadya_ghige⚡: Bhava no aika
+29/02/24, 9:39 pm - Aadya_ghige⚡: 70 rs kadhu mhnje
+29/02/24, 9:39 pm - Aadya_ghige⚡: Aapal
+29/02/24, 9:39 pm - Aadya_ghige⚡: Chicken ch pn aani
+29/02/24, 9:39 pm - Gaurav Kalamkar: Ani!
+29/02/24, 9:39 pm - Gaurav Kalamkar: ?
+29/02/24, 9:39 pm - Aadya_ghige⚡: 🍷pn houn jail
+29/02/24, 9:40 pm - Gaurav Kalamkar: Okay
+29/02/24, 9:40 pm - Gaurav Kalamkar: Konala karu?
+29/02/24, 9:40 pm - Aadya_ghige⚡: Mla ch kar re
+29/02/24, 9:40 pm - Gaurav Kalamkar: POLL:
+Paisa diya kya?
+OPTION: Haa (4 votes)
+OPTION: Naa (0 votes)
+
+29/02/24, 9:40 pm - Gaurav Kalamkar: Okayy
+29/02/24, 9:41 pm - Gaurav Kalamkar: 06625 vala number na?
+29/02/24, 9:41 pm - Sairaj pinned a message
+29/02/24, 9:41 pm - Gaurav Kalamkar: @917498506625
+29/02/24, 9:41 pm - Sairaj: .
+29/02/24, 9:42 pm - 👑Atharva👑: Bhaat banavaycha aahe tikde ?
+29/02/24, 9:42 pm - Sairaj: Tandul aan banvu
+29/02/24, 9:42 pm - Sairaj: @917498506625  chatni kiti aanu
+29/02/24, 9:43 pm - 👑Atharva👑: Bhandi aahet ka ?
+29/02/24, 9:43 pm - Sairaj: Me aantoy aek motha asel tr aan
+29/02/24, 9:43 pm - 👑Atharva👑: Biryani rice gheu na vikat
+29/02/24, 9:43 pm - Aadya_ghige⚡: Vatti bharun
+29/02/24, 9:43 pm - Sairaj: Okay
+29/02/24, 9:43 pm - Aadya_ghige⚡: Bhai sukh karyach ahe ma
+29/02/24, 9:43 pm - Sairaj: Thike sakali bghu
+29/02/24, 9:44 pm - Sairaj: Atharva chiken bg 200 per kg kuthe milel
+29/02/24, 9:45 pm - 👑Atharva👑: Atta kuthe baghu bhai
+29/02/24, 9:45 pm - 👑Atharva👑: Sakali bghu tikdech
+29/02/24, 9:45 pm - Sairaj: 😂
+29/02/24, 9:45 pm - Sairaj: Tech boltoy
+29/02/24, 9:45 pm - 👑Atharva👑: Ha😂
+29/02/24, 9:45 pm - तन्मय देशमुख: Are direct komdy gheu
+29/02/24, 9:45 pm - 👑Atharva👑: Ho bhai bas tu bolshil tasa
+29/02/24, 9:45 pm - तन्मय देशमुख: 2  kilo chy 3 gheu
+29/02/24, 9:45 pm - Sairaj: 🫡
+29/02/24, 9:46 pm - तन्मय देशमुख: Mhanje 4 kilo chy varti padel aaramat
+29/02/24, 9:46 pm - Aadya_ghige⚡: Aree bola
+29/02/24, 9:46 pm - तन्मय देशमुख: 2 nhi
+29/02/24, 9:46 pm - Sairaj: Aekch kru
+29/02/24, 9:46 pm - Aadya_ghige⚡: Sukh na
+29/02/24, 9:47 pm - Sairaj: Haa
+29/02/24, 9:47 pm - तन्मय देशमुख: Bhataver?
+29/02/24, 9:47 pm - 👑Atharva👑: Mag bahata barobar rassa ?
+29/02/24, 9:47 pm - 👑Atharva👑: Normal gravy type banu nytr
+29/02/24, 9:48 pm - Aadya_ghige⚡: Bhai sukh ch banvu
+29/02/24, 9:50 pm - Aditya: Mg rice cancel kru ya ka ?
+29/02/24, 9:50 pm - 👑Atharva👑: Mag khanar kashyabarobar
+29/02/24, 9:50 pm - तन्मय देशमुख: Mg khaych kay?
+29/02/24, 9:50 pm - Aditya: Chapati thrl hot na i guess ?
+29/02/24, 9:50 pm - Aditya: @919594198343
+29/02/24, 10:00 pm - Aadya_ghige⚡: Ha m chapati ahet na
+29/02/24, 10:00 pm - Aditya: Chapati ani rice doni pn ?
+29/02/24, 10:04 pm - Sairaj: tiffin madhun gheun ya fkt chapatya
+29/02/24, 10:08 pm - Gaurav Kalamkar: Sukhach banva
+29/02/24, 10:08 pm - Gaurav Kalamkar: Thoda roasted types <This message was edited>
+29/02/24, 10:08 pm - Gaurav Kalamkar: Chapati sobat best rahil
+29/02/24, 10:11 pm - Prathamesh Shelke: Bhai veg madhe kay ahe😂
+29/02/24, 10:12 pm - Gaurav Kalamkar: Upvaas
+29/02/24, 10:12 pm - Prathamesh Shelke: Ka dabba gheun yeu
+29/02/24, 10:16 pm - 👑Atharva👑: Dabba aana bahava😂
+29/02/24, 10:16 pm - 👑Atharva👑: Tu fkt vaas ghe😂
+29/02/24, 10:20 pm - 👑Atharva👑: 140 la 1kg kombdi aahe I vanta
+29/02/24, 10:20 pm - 👑Atharva👑: Jivanta
+29/02/24, 10:20 pm - Sairaj: Bhai kapnar kuthe
+29/02/24, 10:20 pm - Sairaj: Aani ksa
+29/02/24, 10:20 pm - 👑Atharva👑: Areh toch kapun deto
+29/02/24, 10:21 pm - Sairaj: Tyat 800 gm milel
+29/02/24, 10:22 pm - तन्मय देशमुख: 750/800
+29/02/24, 10:22 pm - 👑Atharva👑: Banavnar kon aahe pan😂
+29/02/24, 10:23 pm - Sairaj: Ts kru
+29/02/24, 10:23 pm - तन्मय देशमुख: Aahet re pora
+29/02/24, 10:23 pm - Sairaj: Continental Hotel cha chef aahe
+29/02/24, 10:23 pm - 👑Atharva👑: 😂
+29/02/24, 10:24 pm - Sairaj: Head chef Aditya Ghighe 
+Ani helper Tanmay
+29/02/24, 10:24 pm - 👑Atharva👑: Khopoli cha swaypaki😂
+29/02/24, 10:24 pm - तन्मय देशमुख: हमारे छोरे छोरीया से कम है के😂
+29/02/24, 10:25 pm - Sairaj: 😂
+01/03/24, 7:53 am - Gaurav Kalamkar: Bc baarish hone wali hai kya
+01/03/24, 8:23 am - 👑Atharva👑: Hone wali hai nahi bhai hogayi😂
+01/03/24, 8:39 am - Gaurav Kalamkar: Ghumne jane ka mann kar raha hai
+01/03/24, 8:39 am - Gaurav Kalamkar: 😭😭
+01/03/24, 8:40 am - तन्मय देशमुख: Ja zeel sobat
+01/03/24, 8:40 am - Gaurav Kalamkar: Aaj plan ahe boys cha
+01/03/24, 8:40 am - Gaurav Kalamkar: Nahitar defn gelo asto
+01/03/24, 8:40 am - तन्मय देशमुख: Aani protection leke ja Bhai😂
+01/03/24, 8:40 am - Gaurav Kalamkar: Aae vedya
+01/03/24, 8:40 am - Gaurav Kalamkar: <Media omitted>
+01/03/24, 8:40 am - Gaurav Kalamkar: Bat ka grip
+01/03/24, 8:40 am - Gaurav Kalamkar: Nikalke
+01/03/24, 8:41 am - Aditya: Tu tuji grip smbhalun vapr
+01/03/24, 8:41 am - Aditya: Gela tr
+01/03/24, 8:41 am - तन्मय देशमुख: Are aamhal time Lage tos paryent tuza houn jail 10sec chi tar ghosta aahe
+01/03/24, 8:42 am - Aditya: <Media omitted>
+01/03/24, 8:42 am - तन्मय देशमुख: <Media omitted>
+01/03/24, 9:41 am - 👑Atharva👑: <Media omitted>
+01/03/24, 9:41 am - 👑Atharva👑: <Media omitted>
+01/03/24, 9:41 am - 👑Atharva👑: <Media omitted>
+01/03/24, 9:42 am - Sairaj: Motha nhi ka
+01/03/24, 9:42 am - Sairaj: Bhava
+01/03/24, 9:43 am - 👑Atharva👑: Ny
+01/03/24, 9:44 am - Sairaj: Rahude bhai
+01/03/24, 9:44 am - Sairaj: Paise send krto Chiken aan
+01/03/24, 9:44 am - 👑Atharva👑: Ny bhava
+01/03/24, 9:44 am - Sairaj: Bus stop la bhetel
+01/03/24, 9:44 am - 👑Atharva👑: Scooty ny mazyakae
+01/03/24, 9:44 am - Sairaj: .
+01/03/24, 9:44 am - 👑Atharva👑: Kuthe aahe tithe
+01/03/24, 9:45 am - Sairaj: Rahude bhai te pan
+01/03/24, 9:45 am - Sairaj: Por aahet ikde
+01/03/24, 9:45 am - 👑Atharva👑: Haaa
+01/03/24, 9:45 am - 👑Atharva👑: Pathav tyana
+01/03/24, 9:45 am - 👑Atharva👑: Anandnagar la kuthe aahe chicken vala
+01/03/24, 9:45 am - 👑Atharva👑: Stop la
+01/03/24, 9:46 am - Sairaj: Tu ya bhai
+01/03/24, 9:46 am - 👑Atharva👑: Ha toap nako anu na
+01/03/24, 9:46 am - Sairaj: Te bghto ky te
+01/03/24, 9:46 am - Sairaj: Nko
+01/03/24, 9:46 am - 👑Atharva👑: Haaa
+01/03/24, 5:03 pm - Gaurav Kalamkar: <Media omitted>
+01/03/24, 5:03 pm - Gaurav Kalamkar: <Media omitted>
+01/03/24, 5:03 pm - Gaurav Kalamkar: This message was deleted
+01/03/24, 5:03 pm - Gaurav Kalamkar: This message was deleted
+01/03/24, 5:56 pm - Prathamesh Shelke: System programming ch konta ahe?
+01/03/24, 5:56 pm - Prathamesh Shelke: Questions vagera
+01/03/24, 6:37 pm - Gaurav Kalamkar: <Media omitted>
+01/03/24, 6:57 pm - Gaurav Kalamkar: Module 1 madhun question no 1 8 and 11
+01/03/24, 6:58 pm - Gaurav Kalamkar: Module 2 madhla 6th and tey single pass assembler with flowchart
+01/03/24, 6:58 pm - Gaurav Kalamkar: And module 3 cha 4 5 and 10
+01/03/24, 7:13 pm - Jayant: Which subject
+01/03/24, 7:14 pm - Gaurav Kalamkar: Spcc
+01/03/24, 7:23 pm - 👑Atharva👑: Monday la kuthla paper aahe
+01/03/24, 7:23 pm - तन्मय देशमुख: AI
+01/03/24, 8:34 pm - Gaurav Kalamkar: Arey Bala asa ka kartos tu lavdyaaaaaa
+01/03/24, 8:34 pm - Gaurav Kalamkar: Spcc ahe
+01/03/24, 8:42 pm - तन्मय देशमुख: Majly ka re chomny
+01/03/24, 9:38 pm - Sairaj: Gaurav aani shivi🫡
+01/03/24, 10:36 pm - Gaurav Kalamkar: Tanmay haa ektach asel
+01/03/24, 10:36 pm - Gaurav Kalamkar: Jo majhya kadun shuvya khaato
+01/03/24, 10:36 pm - Gaurav Kalamkar: 😂😂😂
+01/03/24, 10:41 pm - तन्मय देशमुख: 😂🙌🔥
+01/03/24, 10:47 pm - Sairaj: Tanmay stocks 📈
+02/03/24, 3:17 pm - Your security code with Aadya_ghige⚡ changed. Tap to learn more.
+02/03/24, 3:17 pm - Your security code with Aadya_ghige⚡ changed. Tap to learn more.
+02/03/24, 11:20 pm - Sairaj: Module 1 madhun question no 1 8 and 11
+02/03/24, 11:20 pm - Sairaj: Module 2 madhla 6th and tey single pass assembler with flowchart
+02/03/24, 11:20 pm - Sairaj: And module 3 cha 4 5 and 10
+02/03/24, 11:21 pm - Sairaj: Konitri questions ch pathva na
+02/03/24, 11:21 pm - Aditya: Ky phije mnje tula nki ?
+02/03/24, 11:21 pm - Sairaj: Are questions
+02/03/24, 11:21 pm - Sairaj: Spcc che
+02/03/24, 11:21 pm - Aditya: Old vale deu ki new vala ?
+02/03/24, 11:21 pm - Sairaj: .
+02/03/24, 11:22 pm - Aditya: <Media omitted>
+02/03/24, 11:22 pm - Aditya: <Media omitted>
+02/03/24, 11:22 pm - तन्मय देशमुख: Content kon banvnar aahe
+02/03/24, 11:22 pm - Aditya: Tanmay
+02/03/24, 11:22 pm - Sairaj: Are Gaurav je boltoy te specific questions
+02/03/24, 11:22 pm - Sairaj: Fkt pahijet
+02/03/24, 11:23 pm - 👑Atharva👑: Kuthle ynr te bola tech karu
+02/03/24, 11:23 pm - Aditya: Gaurav ne te nhi dily aplya la
+02/03/24, 11:23 pm - Sairaj: .
+02/03/24, 11:23 pm - Sairaj: .
+02/03/24, 11:23 pm - Sairaj: .
+02/03/24, 11:23 pm - Aditya: Ho pn exactly question konta ahe te nhi ahe
+02/03/24, 11:23 pm - Sairaj: Hey questions pahijet
+02/03/24, 11:24 pm - Aditya: Are sairaj hech ahet questions
+02/03/24, 11:24 pm - Aditya: Je gaurav ne takly
+02/03/24, 11:25 pm - Aditya: Mam sangat hoti theva lihla porani questions he
+02/03/24, 11:25 pm - Sairaj: Okay bhai
+02/03/24, 11:25 pm - Sairaj: Hech krto m
+02/03/24, 11:25 pm - Sairaj: Pass hoil na
+02/03/24, 11:25 pm - Aditya: Ho mam boli
+02/03/24, 11:26 pm - Sairaj: 🥳
+02/03/24, 11:47 pm - 👑Atharva👑: Yache ans pathva na
+02/03/24, 11:55 pm - तन्मय देशमुख: Chitti kon banvtoy?
+02/03/24, 11:57 pm - Sairaj: Pappya
+03/03/24, 12:14 am - तन्मय देशमुख: 🤦
+03/03/24, 7:08 am - Jayant: <Media omitted>
+03/03/24, 11:40 am - Sairaj: Ans aahet ka konakade yache
+03/03/24, 11:42 am - Aditya: <Media omitted>
+03/03/24, 11:42 am - Sairaj: Bhai BT subject aahe
+03/03/24, 11:43 am - Aditya: Phile 7 questions che answers magvtoy
+03/03/24, 11:43 am - Aditya: Titke ch kryache ahe na ?
+03/03/24, 11:43 am - Sairaj: Me Hech krtoy
+03/03/24, 11:43 am - Aditya: But mam nhi bt ☠️
+03/03/24, 11:43 am - Sairaj: 😂
+03/03/24, 11:43 am - Sairaj: Yt link asel tr share kr
+03/03/24, 11:44 am - Aditya: Ha
+03/03/24, 11:44 am - Aditya: Are mansi dete ahe answer ti boli ki answer chote ahet sgle video bghun vel jail
+03/03/24, 11:44 am - Aditya: 4/5 line ch definition ahet ti dete ahe mg me krto send
+03/03/24, 11:44 am - Sairaj: Okay
+03/03/24, 11:45 am - Jayant: Isma sa nahi karna hai kaya
+03/03/24, 11:45 am - Sairaj: Me nhi kr raha
+03/03/24, 11:46 am - Sairaj: Ye kr
+03/03/24, 11:46 am - Aditya: <Media omitted>
+03/03/24, 11:46 am - Aditya: <Media omitted>
+03/03/24, 11:46 am - Aditya: He forward ch
+03/03/24, 11:58 am - Aditya: <Media omitted>
+03/03/24, 11:58 am - Aditya: <Media omitted>
+03/03/24, 11:58 am - Aditya: <Media omitted>
+03/03/24, 11:58 am - Aditya: <Media omitted>
+03/03/24, 11:58 am - Aditya: <Media omitted>
+03/03/24, 11:58 am - Aditya: <Media omitted>
+03/03/24, 12:08 pm - Aditya: @919594198343  example sathi 5 min engineering vale che video bgh mam ne tech example copy paste kely
+03/03/24, 12:09 pm - Sairaj: Okay
+03/03/24, 12:27 pm - Prathamesh Shelke: Bhai question ch nit samjhat nahi ahet 🥲
+03/03/24, 12:29 pm - Prathamesh Shelke: He question bank ahe ka te?
+03/03/24, 12:30 pm - Ojas: <Media omitted>
+03/03/24, 12:30 pm - Ojas: q11 cha answer pathva naa 🙏
+03/03/24, 12:32 pm - Gaurav Kalamkar: Single pass and pass 1 cha same ans ahe na? <This message was edited>
+03/03/24, 12:39 pm - Prathamesh Shelke: Bhai hya madhala 1-2 ch answer ahe ka?
+03/03/24, 12:40 pm - Prathamesh Shelke: Difference between system software and application software
+03/03/24, 12:45 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 12:45 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 12:45 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 12:45 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 12:45 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 12:45 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 12:45 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 12:46 pm - Prathamesh Shelke: Sagle answer ahet ka bagha
+03/03/24, 12:50 pm - Gaurav Kalamkar: Bhai pakka ahe ka
+03/03/24, 12:50 pm - Gaurav Kalamkar: He ans kuthun ghetlays?
+03/03/24, 12:51 pm - Gaurav Kalamkar: ?!
+03/03/24, 12:52 pm - Prathamesh Shelke: Sharvari ne pathvale
+03/03/24, 12:52 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 12:52 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 12:52 pm - Prathamesh Shelke: <Media omitted>
+03/03/24, 1:28 pm - Sairaj: Macro features send kra koni tri
+03/03/24, 1:28 pm - Sairaj: Pass 1 assembler
+03/03/24, 1:29 pm - Aditya: Dily na bhai
+03/03/24, 1:30 pm - Sairaj: Kuthe
+03/03/24, 1:32 pm - Prathamesh Shelke: Me pathvala ahe tya madhe ahe bhai sarv fakt sodh ata kuthe te😂
+03/03/24, 1:33 pm - Sairaj: Okay
+03/03/24, 1:37 pm - Aditya Yadav added +91 77419 11834
+03/03/24, 11:05 pm - Sairaj: <Media omitted>
+04/03/24, 12:18 am - 👑Atharva👑: Pass honar na hyani
+04/03/24, 12:27 am - Sairaj: Hoo
+04/03/24, 11:38 am - Jayant: <Media omitted>
+04/03/24, 2:09 pm - Sairaj: Ans aahet ka
+04/03/24, 3:13 pm - Jayant: Nahi
+04/03/24, 5:44 pm - Aditya: https://youtu.be/8B1rN1rnTiU?si=TBDQEizZoQOlbExk
+04/03/24, 5:57 pm - Aditya: This message was deleted
+04/03/24, 5:57 pm - Aditya: This message was deleted
+04/03/24, 5:57 pm - Aditya: This message was deleted
+04/03/24, 5:57 pm - Aditya: This message was deleted
+04/03/24, 5:57 pm - Aditya: This message was deleted
+04/03/24, 10:47 pm - Prathamesh Shelke: Bhai cheat ahe ka konakade?
+04/03/24, 11:25 pm - Sairaj: Nopee
+05/03/24, 12:22 am - 👑Atharva👑: Ans tr pathva q bank che
+05/03/24, 12:22 am - 👑Atharva👑: Pathva lvkr thoda far krude
+05/03/24, 12:26 am - तन्मय देशमुख: <Media omitted>
+05/03/24, 12:33 am - तन्मय देशमुख: Konala devu naka fakta
+05/03/24, 12:51 am - 👑Atharva👑: <Media omitted>
+05/03/24, 1:18 pm - Sairaj: MC Questions -
+
+Assignment No 1 - 1, 2 and 4
+Assignment No 2 - 1, 4, and 5
+Assignment No 3 - 1, 2
+05/03/24, 1:18 pm - Sairaj pinned a message
+05/03/24, 1:19 pm - Sairaj: <Media omitted>
+05/03/24, 1:19 pm - Sairaj: Open krun Maja roll Kiti aahe
+05/03/24, 1:19 pm - Sairaj: Snga koni tri
+05/03/24, 1:20 pm - Jayant: Open nahi ho Raha hai
+05/03/24, 1:20 pm - Aditya: Same
+05/03/24, 1:20 pm - Jayant: Assignment kider sa Mila ga
+05/03/24, 1:20 pm - +91 77419 11834: Mail par hai
+05/03/24, 1:20 pm - Sairaj: <Media omitted>
+05/03/24, 1:20 pm - Sairaj: <Media omitted>
+05/03/24, 1:21 pm - Sairaj: <Media omitted>
+05/03/24, 1:21 pm - Aditya: Kay ahe ? @919594198343
+05/03/24, 1:21 pm - Sairaj: Roll no aalet nvin
+05/03/24, 8:34 pm - Prathamesh Shelke: Bhai cheat ahe?
+05/03/24, 11:29 pm - 👑Atharva👑: ...
+05/03/24, 11:30 pm - Sairaj: Nhi ajun tri
+05/03/24, 11:31 pm - 👑Atharva👑: Tanmay bnvnr hota na
+05/03/24, 11:41 pm - तन्मय देशमुख: Nahi jamnar re mala
+05/03/24, 11:47 pm - 👑Atharva👑: Kon bnvty mg
+06/03/24, 12:09 am - 👑Atharva👑: <Media omitted>
+06/03/24, 8:12 am - तन्मय देशमुख: <Media omitted>
+06/03/24, 9:38 am - Sairaj: <Media omitted>
+06/03/24, 4:38 pm - Prathamesh Shelke: Ai ch ahe kay?
+06/03/24, 11:24 pm - 👑Atharva👑: Mini dya
+06/03/24, 11:56 pm - Sairaj: Nhi bnvliye
+06/03/24, 11:56 pm - Sairaj: Tuch bnvu shktos
+06/03/24, 11:57 pm - 👑Atharva👑: Mi ny bnvt aahe
+06/03/24, 11:57 pm - Sairaj: Okay
+06/03/24, 11:57 pm - Sairaj: Abhyas kr bhava
+07/03/24, 12:07 am - 👑Atharva👑: Tech krtoy re
+07/03/24, 12:12 am - Sairaj: Module 2 kr
+07/03/24, 12:12 am - Sairaj: 10 marks la yeil
+07/03/24, 12:31 am - 👑Atharva👑: <Media omitted>
+07/03/24, 8:26 am - तन्मय देशमुख: <Media omitted>
+10/03/24, 4:03 pm - तन्मय देशमुख: 1. Describe Zigbee protocol stack using IEEE802.15.4 - 10 Marks
+
+2. Explain One M2M IoT Standardized Architecture with neat diagram  - 10 Marks
+
+3. Describe data versus network analytics for an IOT network. - 10 Marks
+
+4. Explain the IOT application layer with a neat diagram. - 10 Marks
+
+4. Write a short note on RFID - 5 Marks
+
+5. Write a note on BLE - 5 Marks
+
+6. What is IOT? Explain IOT blocks in detail. List out different IOT challenges. - 5/10 Marks
+
+7. Compare IT and OT Networks - 5 Marks
+
+8. Explain Fog Computing & Edge Computing with its advantages and disadvantages - 5 Marks
+10/03/24, 4:03 pm - Aditya Yadav: Kon dilay
+10/03/24, 4:03 pm - Aditya Yadav: Mam?
+10/03/24, 4:04 pm - तन्मय देशमुख: Yash
+10/03/24, 4:04 pm - Aditya Yadav: Brr brr
+10/03/24, 4:08 pm - Gaurav Kalamkar: Arey toh bollay ki hey wale tyala vattay exam madhe yeil karun
+10/03/24, 4:08 pm - Gaurav Kalamkar: Ma'am ne nahi sangitlay tyala
+10/03/24, 7:32 pm - Jayant: Q4 ka answer hai kaya
+11/03/24, 7:17 am - Sairaj: Happy Birthday bhava🍻 @918767863820
+11/03/24, 7:25 am - Aadya_ghige⚡: Happy birthday bhai🥂🥳
+11/03/24, 7:38 am - 👑Atharva👑: Dhanyawad bhavanno🫶❤️
+11/03/24, 7:38 am - 👑Atharva👑: Mini dya re
+11/03/24, 7:59 am - Sairaj: <Media omitted>
+12/03/24, 8:23 am - Sairaj: Happy Birthday Bhava❤️@917498506625 @917028397487
+12/03/24, 8:23 am - Aditya: Happy birthday bhava 💝@917028397487
+12/03/24, 8:26 am - Prathamesh Shelke: Happy Birthday 🤝❤️
+12/03/24, 8:57 am - 👑Atharva👑: Happy Birthday ❤️
+12/03/24, 8:58 am - तन्मय देशमुख: Happy Birthday Bhava 🥳
+12/03/24, 9:10 am - Aadya_ghige⚡: Dhanyavad bhava no ❤️
+12/03/24, 10:08 am - Gaurav Kalamkar: Happy bday @917498506625 🥳🥳
+12/03/24, 10:13 am - Aadya_ghige⚡: Dhanyavad ❤️
+12/03/24, 10:54 am - Sairaj: <Media omitted>
+12/03/24, 10:56 am - Gaurav Kalamkar: Bhai bhai bhai
+12/03/24, 10:56 am - Gaurav Kalamkar: 😂😂😂
+12/03/24, 10:56 am - Gaurav Kalamkar: Sairaj 19
+12/03/24, 10:56 am - Gaurav Kalamkar: Fav student
+12/03/24, 10:56 am - Gaurav Kalamkar: 😂😉
+12/03/24, 10:56 am - 👑Atharva👑: Hana bhai
+12/03/24, 10:56 am - Gaurav Kalamkar: Benefits
+12/03/24, 10:57 am - Sairaj: Mech shock
+12/03/24, 10:57 am - 👑Atharva👑: @919594198343 la pakda
+12/03/24, 10:57 am - Gaurav Kalamkar: 😂😂😂
+12/03/24, 10:57 am - Sairaj: Bhai paper liha hota
+12/03/24, 10:57 am - Sairaj: Copy krun
+12/03/24, 10:57 am - 👑Atharva👑: Abhyas ny krt bolto tri evdhe bhettat
+12/03/24, 10:57 am - Aditya Yadav: 🥳🥳🥳
+12/03/24, 10:57 am - Gaurav Kalamkar: Arey mi normal lihela
+12/03/24, 10:57 am - Sairaj: Are Yash ani me sharing madhe lihito paper
+12/03/24, 10:57 am - Gaurav Kalamkar: 10 marks chya khaali lihlela
+12/03/24, 10:57 am - Gaurav Kalamkar: Tari 13 kashe dile kay mahiti
+12/03/24, 10:57 am - Gaurav Kalamkar: 😂😂😂
+12/03/24, 10:57 am - Sairaj: HOD 💪
+12/03/24, 10:58 am - Gaurav Kalamkar: Haana🫂
+12/03/24, 10:59 am - Aditya Yadav: Bhava bhetle khushi manav 🥳🥳😂
+12/03/24, 10:59 am - Sairaj: 🥳
+13/03/24, 9:48 am - Aditya Yadav: Kon kon Clg madhe aahi
+13/03/24, 9:57 am - Gaurav Kalamkar: <Media omitted>
+13/03/24, 9:58 am - तन्मय देशमुख: null
+13/03/24, 9:58 am - Sairaj: rockstar Tanmay
+13/03/24, 9:59 am - तन्मय देशमुख: Kadhi nightoy re
+13/03/24, 9:59 am - Gaurav Kalamkar: Naad naka karu tanmay xha
+13/03/24, 9:59 am - Gaurav Kalamkar: Cha*
+13/03/24, 9:59 am - Sairaj: Aaloy
+13/03/24, 9:59 am - तन्मय देशमुख: Okay
+13/03/24, 10:11 am - Aadya_ghige⚡: Bhosad pappya
+13/03/24, 10:11 am - 👑Atharva👑: ✋
+13/03/24, 12:24 pm - तन्मय देशमुख: null
+13/03/24, 12:31 pm - Prathamesh Shelke: Majhi lavli ka bhai?
+13/03/24, 12:31 pm - तन्मय देशमुख: Ha
+13/03/24, 12:31 pm - Gaurav Kalamkar: Mazhi lavli?
+13/03/24, 12:32 pm - तन्मय देशमुख: Nahi
+13/03/24, 12:32 pm - Gaurav Kalamkar: Okayy
+13/03/24, 12:53 pm - Prathamesh Shelke: 🤝
+13/03/24, 1:56 pm - Sairaj: <Media omitted>
+14/03/24, 8:23 am - 👑Atharva👑: 62 ani 63 lava Ai ani mc la practical la yeto mi
+14/03/24, 2:45 pm - Sairaj: <Media omitted>
+14/03/24, 2:49 pm - तन्मय देशमुख: 5
+14/03/24, 2:50 pm - Sairaj: Lavdya tuja 7 takla
+14/03/24, 2:50 pm - Sairaj: 😂
+14/03/24, 2:50 pm - तन्मय देशमुख: 😂
+14/03/24, 3:08 pm - Prathamesh Shelke: 63 bhai
+14/03/24, 3:08 pm - Prathamesh Shelke: Ahe 🤝
+15/03/24, 8:38 pm - Prathamesh Shelke: <Media omitted>
+15/03/24, 8:46 pm - 👑Atharva👑: Bhai ky aahe he😂
+17/03/24, 9:52 pm - 👑Atharva👑: Log pages banavlet ka koni
+17/03/24, 11:34 pm - Ojas: Nahi bhai
+17/03/24, 11:37 pm - 👑Atharva👑: Format aahe ka
+17/03/24, 11:37 pm - 👑Atharva👑: Asel tr pathva csd cha
+18/03/24, 12:02 pm - Aditya Yadav: Iot paper dakhavat aahi
+18/03/24, 12:07 pm - Sairaj: Maj pn bg
+18/03/24, 12:14 pm - Aditya: Aplya poran che bgh
+18/03/24, 12:15 pm - Aditya Yadav: Dakhavat nahiy
+18/03/24, 12:20 pm - Aditya Yadav: 12
+18/03/24, 12:22 pm - Aditya Yadav: @918767863820 14
+18/03/24, 12:23 pm - तन्मय देशमुख: Maza kay seen?
+18/03/24, 12:23 pm - Aditya Yadav: 8
+18/03/24, 12:24 pm - Jayant: Mera ??
+18/03/24, 12:24 pm - Aadya_ghige⚡: 13 cha pn bgh
+18/03/24, 12:24 pm - Aadya_ghige⚡: Bhava
+18/03/24, 12:25 pm - Aditya Yadav: Nahi dikha Rahi
+18/03/24, 12:25 pm - Jayant: Strictly check Kiya hai kaya paper usnay
+18/03/24, 12:26 pm - Aditya Yadav: Nahi
+18/03/24, 12:26 pm - Aditya Yadav: Halke mai
+18/03/24, 9:03 pm - 👑Atharva👑: <Media omitted>
+18/03/24, 9:06 pm - Aditya: Tuja wait krte ahe ti ata
+18/03/24, 9:07 pm - 👑Atharva👑: This message was deleted
+18/03/24, 9:07 pm - 👑Atharva👑: Tuch aahes toh chaava ticha
+18/03/24, 9:15 pm - Prathamesh Shelke: Bhai thoda tari vichar karat ja boltana😂
+18/03/24, 9:16 pm - Gaurav Kalamkar: Tumhi sagle chukicha porala pakdyt
+18/03/24, 9:16 pm - 👑Atharva👑: Bhava vichar ky karaycha aplech aahet sagle
+18/03/24, 9:16 pm - Gaurav Kalamkar: Nishant ahe toh
+18/03/24, 9:17 pm - Gaurav Kalamkar: Jyachya baddal ti bolte ahe
+18/03/24, 9:17 pm - Gaurav Kalamkar: Delete kay kelas
+18/03/24, 9:17 pm - Gaurav Kalamkar: Ss ghetla mi
+18/03/24, 9:17 pm - Gaurav Kalamkar: 😏
+18/03/24, 9:17 pm - 👑Atharva👑: Bhai kuthe gela ny pahije fakt😂
+18/03/24, 9:20 pm - Prathamesh Shelke: 😂😂
+21/03/24, 10:07 am - Prathamesh Shelke: Mc la attendance lava bhai🤝
+21/03/24, 10:07 am - Prathamesh Shelke: 63
+21/03/24, 10:07 am - 👑Atharva👑: 62 pan lava
+21/03/24, 7:00 pm - Aditya: @918767863820 @919324469617 
+Iv ch ky scene tumcha ?
+21/03/24, 7:01 pm - Prathamesh Shelke: Bhai unhat mahableshwar chale ahe😂
+21/03/24, 7:02 pm - Sairaj: Dusra option mji
+21/03/24, 7:02 pm - Sairaj: Nhi
+21/03/24, 7:10 pm - 👑Atharva👑: Out apan jauya kuthe tari
+21/03/24, 7:10 pm - Sairaj: @917741911834 ?
+21/03/24, 7:10 pm - Sairaj: Kuthe janar
+21/03/24, 7:10 pm - Sairaj: Sng
+21/03/24, 7:10 pm - Gaurav Kalamkar: Kaa bhai
+21/03/24, 7:11 pm - 👑Atharva👑: Areh mahabaleshwar la kon jatay 😂
+21/03/24, 7:11 pm - 👑Atharva👑: Baki ky boltat bghu
+21/03/24, 7:12 pm - Gaurav Kalamkar: Arey aple sagle astil
+21/03/24, 7:12 pm - Gaurav Kalamkar: Tar majja yeil
+21/03/24, 7:12 pm - Sairaj: In sgle
+21/03/24, 7:12 pm - Prathamesh Shelke: Bhai
+21/03/24, 7:13 pm - Gaurav Kalamkar: Mi in
+21/03/24, 7:13 pm - Gaurav Kalamkar: Sairaj in
+21/03/24, 7:13 pm - Gaurav Kalamkar: Shelke in
+21/03/24, 7:13 pm - Sairaj: Pappya in
+21/03/24, 7:13 pm - Gaurav Kalamkar: Tanmay in
+21/03/24, 7:13 pm - तन्मय देशमुख: In
+21/03/24, 7:14 pm - Prathamesh Shelke: Daman and Diu la jau shakto 3 divas gujrat la
+21/03/24, 7:22 pm - +91 77419 11834: In
+21/03/24, 7:22 pm - Gaurav Kalamkar: Grp var in taakun de
+21/03/24, 7:22 pm - +91 77419 11834: Hoo takto
+21/03/24, 7:22 pm - Sairaj: Bhai itkya kami madhe nhi honar
+21/03/24, 7:23 pm - Sairaj: Khup costly hoil te
+21/03/24, 7:30 pm - Prathamesh Shelke: Thodfar jast lagtil
+21/03/24, 7:30 pm - Sairaj: Jst jatil
+21/03/24, 7:39 pm - 👑Atharva👑: Mahabaleshwar chya hishobani jasta paise ghetat asa ny vatat
+21/03/24, 7:39 pm - Sairaj: Are expensive aahe foot Tikde
+21/03/24, 7:39 pm - Sairaj: Stay pn
+21/03/24, 7:39 pm - Sairaj: Food*
+21/03/24, 7:40 pm - 👑Atharva👑: Sagle pkka in aahet ?
+21/03/24, 7:40 pm - Sairaj: Hoo
+24/03/24, 12:56 pm - Jayant: <Media omitted>
+24/03/24, 12:56 pm - Gaurav Kalamkar: Mei pass hpgaya
+24/03/24, 12:56 pm - Gaurav Kalamkar: 😭😭😭😭😭😭
+24/03/24, 1:01 pm - Aditya Yadav: Mi pan 🥺
+24/03/24, 1:01 pm - Aditya: me pn 🥹
+24/03/24, 1:02 pm - Jayant: 7.82 kaysa
+24/03/24, 1:03 pm - Gaurav Kalamkar: Haana
+24/03/24, 1:03 pm - Aditya Yadav: Ha na tuje katana
+24/03/24, 1:03 pm - Gaurav Kalamkar: Abhyas kelela yada ne ya time
+24/03/24, 1:03 pm - Aditya Yadav: Nahi re bhava
+24/03/24, 1:03 pm - Aditya: ho mg
+24/03/24, 1:03 pm - Gaurav Kalamkar: Chal rey
+24/03/24, 1:03 pm - Gaurav Kalamkar: Lavdya tu kay holtoys
+24/03/24, 1:03 pm - Gaurav Kalamkar: Tu pan kelela
+24/03/24, 1:03 pm - Gaurav Kalamkar: Ya time fakt mi bolu shakto
+24/03/24, 1:03 pm - Gaurav Kalamkar: 😂😂😂
+24/03/24, 1:04 pm - Aditya: congrulations bhai🥰
+24/03/24, 1:04 pm - Gaurav Kalamkar: 😂😂😂
+24/03/24, 1:04 pm - Gaurav Kalamkar: Ya time saglyat kami malach ahe
+24/03/24, 1:04 pm - Gaurav Kalamkar: Chal apli sagle pora zhali na pass?
+24/03/24, 1:04 pm - Gaurav Kalamkar: Ig tanmay cha rahilay
+24/03/24, 1:04 pm - Gaurav Kalamkar: Kahitaro
+24/03/24, 1:04 pm - Aditya: all cleAR APLE SGLE
+24/03/24, 1:06 pm - Aditya Yadav: Kt cha result
+24/03/24, 1:06 pm - Aditya Yadav: 🥳🥳🥳
+24/03/24, 1:07 pm - Jayant: @919637638528  ka bas nahi nikla re 🥺🥺
+24/03/24, 1:08 pm - Aditya: Konta rahila
+24/03/24, 1:08 pm - Jayant: TCS DwM
+24/03/24, 1:14 pm - Aditya Yadav: Kt ka result hai to bhejdo
+26/03/24, 12:33 pm - Sairaj: Srvanchi proxy lavli hoti MC la
+26/03/24, 12:33 pm - Sairaj: Tyane pakdlya ani cut kelya
+26/03/24, 12:33 pm - Gaurav Kalamkar: 💀💀💀💀
+26/03/24, 12:33 pm - Gaurav Kalamkar: Aaj che cut kele na fakt?
+26/03/24, 12:34 pm - Sairaj: Hoo ani kal che
+26/03/24, 12:34 pm - Gaurav Kalamkar: 🤣😂
+26/03/24, 12:34 pm - Gaurav Kalamkar: Kaal che?
+26/03/24, 12:34 pm - Gaurav Kalamkar: Kaal clg kuthe hota
+26/03/24, 12:34 pm - Aditya: Bhai to ata IA sathi roll number note krel 💀
+26/03/24, 12:35 pm - Gaurav Kalamkar: 😂😂😂😂
+26/03/24, 12:35 pm - Sairaj: 24 ig
+26/03/24, 12:35 pm - Gaurav Kalamkar: Accha accha
+26/03/24, 12:35 pm - Gaurav Kalamkar: Kay nay sangu shelke lavycha saglyanchi proxy
+26/03/24, 12:35 pm - Gaurav Kalamkar: 😂
+26/03/24, 11:00 pm - Gaurav Kalamkar: <Media omitted>
+26/03/24, 11:00 pm - Gaurav Kalamkar: <Media omitted>
+26/03/24, 11:00 pm - Gaurav Kalamkar: <Media omitted>
+26/03/24, 11:00 pm - Gaurav Kalamkar: <Media omitted>
+27/03/24, 12:28 pm - Sairaj: @919140465958 bhai MC me proxy lagayi
+27/03/24, 12:28 pm - Sairaj: Proxy pakd ke roll call Kraha tha usme bhi precent call kiya😂
+27/03/24, 12:31 pm - Aditya: Fkt jaynt cha call kela ka tyane .
+27/03/24, 12:31 pm - Sairaj: Nhi sravnche
+27/03/24, 12:32 pm - Aditya: Sarvan che present bola ka 😂
+27/03/24, 12:32 pm - Sairaj: Jayant lavli fkt
+27/03/24, 12:32 pm - Aditya: Amche l lagle mg 🥲
+27/03/24, 12:36 pm - Sairaj: are Jayant la pakdl tr ky seen nhi
+27/03/24, 12:36 pm - Sairaj: Tumala pkdl tr mla ch bolal bhai
+27/03/24, 9:26 pm - Prathamesh Shelke: @919637638528 bhai evdha ghan score Chennai la tar kadhi nahi marala kontya team ne😭😂
+27/03/24, 9:27 pm - Aditya Yadav: 🥳🥳🥳
+27/03/24, 9:28 pm - Sairaj: @919637638528 277
+27/03/24, 9:29 pm - Prathamesh Shelke: Toh net band karun basala ata😂
+27/03/24, 9:29 pm - Aditya Yadav: HYD 🚩🚩🥳🥳
+27/03/24, 9:30 pm - Sairaj: Ya season madhe tri argue nko kru Bhava 😮‍💨
+27/03/24, 9:30 pm - Prathamesh Shelke: RCB kade pan bhai ekach record hota toh pan gela ata😂
+27/03/24, 9:30 pm - Prathamesh Shelke: Ata fakt lowest score cha record rahil 49
+27/03/24, 9:30 pm - Aditya Yadav: 😂
+27/03/24, 9:30 pm - Prathamesh Shelke: Trophy tar Tashi pan nahi ahe😂
+27/03/24, 9:34 pm - तन्मय देशमुख: Match aajun baki aahe
+27/03/24, 9:34 pm - Sairaj: 2 anghavrche ghe ani zhop
+27/03/24, 9:34 pm - Prathamesh Shelke: Honarch nahi chase
+27/03/24, 9:34 pm - Prathamesh Shelke: Lavato bet?
+27/03/24, 9:35 pm - Prathamesh Shelke: 😂
+27/03/24, 9:35 pm - Jayant: Possible hi nahi hai
+27/03/24, 9:35 pm - तन्मय देशमुख: CSK 2 years ban zala hoti tula Vatla hota hoil?
+27/03/24, 9:35 pm - तन्मय देशमुख: Pan zali na
+27/03/24, 9:35 pm - Prathamesh Shelke: Team mule navate zhali
+27/03/24, 9:35 pm - Prathamesh Shelke: Management ne betting kele hote
+27/03/24, 9:35 pm - Prathamesh Shelke: Ithe tumchya team la marle evdhe runs😭
+27/03/24, 9:35 pm - तन्मय देशमुख: *Ban ban aasto*
+27/03/24, 9:36 pm - Sairaj: 277 227 aasto
+27/03/24, 9:36 pm - Sairaj: 277*
+27/03/24, 9:36 pm - तन्मय देशमुख: Batting pitch aahe 277 Kami zaly
+27/03/24, 9:36 pm - तन्मय देशमुख: 290 pahije hota
+27/03/24, 9:36 pm - Sairaj: 2 hrs ne replay de fkt
+27/03/24, 9:37 pm - तन्मय देशमुख: Ha
+27/03/24, 9:37 pm - Prathamesh Shelke: 😂😂
+27/03/24, 9:37 pm - Prathamesh Shelke: Jaude Bhai
+27/03/24, 9:37 pm - Prathamesh Shelke: Radu nako next year jinkal ipl tumhi
+27/03/24, 9:38 pm - तन्मय देशमुख: Match bagh re
+27/03/24, 9:43 pm - Aadya_ghige⚡: Highest Individual Score in an IPL Inning
+27/03/24, 9:43 pm - Aadya_ghige⚡: Most Runs in a Single IPL Season
+27/03/24, 9:44 pm - Aadya_ghige⚡: Most Centuries in IPL
+27/03/24, 9:44 pm - Aadya_ghige⚡: Fastest Century in IPL
+27/03/24, 9:44 pm - Aadya_ghige⚡: Most Sixes in IPL History
+27/03/24, 9:44 pm - Aadya_ghige⚡: Highest Partnership in IPL
+27/03/24, 9:46 pm - Aadya_ghige⚡: Most Wins in Consecutive IPL Matches
+27/03/24, 9:46 pm - Aadya_ghige⚡: bhai mahiti tari karun ghet ja pahile🥱
+27/03/24, 9:51 pm - Prathamesh Shelke: Evdha asun trophy nahi?😭
+27/03/24, 9:53 pm - Aadya_ghige⚡: Virat kohli>100🏆
+27/03/24, 9:55 pm - तन्मय देशमुख: Chukla re bhava tu
+27/03/24, 9:56 pm - Aadya_ghige⚡: kay chuklo
+27/03/24, 9:56 pm - तन्मय देशमुख: Virat Kohli cover drive> whole CSK batting line-up
+27/03/24, 9:56 pm - Aadya_ghige⚡: 🤣🤣
+27/03/24, 10:00 pm - Prathamesh Shelke: Bhai tari trophy nahi😭
+27/03/24, 10:01 pm - Prathamesh Shelke: Tumchya pori changalya kheltat poran peksha
+27/03/24, 10:01 pm - Aadya_ghige⚡: bgh pori bhava pori bghyala pn team lagte
+27/03/24, 10:03 pm - Prathamesh Shelke: Trophy kuthe ahe pan?evdhe changale changle players ahet tumchyt tari trophy nahi
+27/03/24, 10:04 pm - Aadya_ghige⚡: bhava hey khar boltos
+27/03/24, 10:05 pm - Aadya_ghige⚡: players changle ahet evdhe bhari tle
+27/03/24, 10:05 pm - Aadya_ghige⚡: kheltat pn changle
+27/03/24, 10:05 pm - Aadya_ghige⚡: pn fixing kashi karyachi tey jamat nhi bhava tyana
+27/03/24, 10:06 pm - Aadya_ghige⚡: ghabrtat re ughich sapdle tr
+27/03/24, 10:06 pm - Aadya_ghige⚡: 2 varsh ban zale tar
+27/03/24, 10:06 pm - Aadya_ghige⚡: test players chya under khelayala lagal tr
+27/03/24, 10:06 pm - Aadya_ghige⚡: mahnun trophy nhi ahe re
+27/03/24, 10:07 pm - Sairaj: Fatu rcb 😂
+27/03/24, 10:08 pm - Aadya_ghige⚡: Ha na kharch fatu ahe
+27/03/24, 10:08 pm - Sairaj: Mi csk 💪
+27/03/24, 10:11 pm - Jayant: Bhai direct mat bol ghige offend ho jaya ga
+27/03/24, 10:11 pm - Sairaj: 😂
+27/03/24, 10:11 pm - Aadya_ghige⚡: <Media omitted>
+27/03/24, 10:16 pm - Prathamesh Shelke: Konta player jail madhe gela hota?
+27/03/24, 10:17 pm - Aadya_ghige⚡: sreesanth🤣
+27/03/24, 10:17 pm - Sairaj: Ghighe google krtoy
+27/03/24, 10:17 pm - Sairaj: Aala google krun😂
+27/03/24, 10:17 pm - Aadya_ghige⚡: bhai evdh tr mahiti ahe
+27/03/24, 10:17 pm - Sairaj: TALENTED AAHE ADITYA
+27/03/24, 10:18 pm - Aadya_ghige⚡: bhava ka maskari kartoy
+27/03/24, 10:19 pm - Sairaj: Are Bhava aahes khrch
+27/03/24, 10:19 pm - Sairaj: Cooking cricket mobile games study srvikde
+27/03/24, 10:19 pm - Aadya_ghige⚡: 🫠
+27/03/24, 10:20 pm - Prathamesh Shelke: Toh Chennai madhe thodi hota
+27/03/24, 10:20 pm - Jayant: @917498506625 tu assignment likha next year fix cup namde
+27/03/24, 10:21 pm - Sairaj: @919140465958 kidhr hey be tu
+27/03/24, 10:21 pm - Sairaj: Bhai ko boltay mere
+27/03/24, 10:21 pm - Sairaj: Oo Roja vali ko marega kal dekh ab
+27/03/24, 10:22 pm - Jayant: 😂😂😂
+27/03/24, 10:22 pm - Aditya: @917498506625 bhava vahini ahe jau de
+27/03/24, 10:22 pm - Aditya: Jayant lahan ahe apla
+27/03/24, 10:22 pm - Jayant: Wo player enter😂😂
+27/03/24, 10:24 pm - Aadya_ghige⚡: 😂
+27/03/24, 11:27 pm - Gaurav Kalamkar: Spcc che exp outputs ahe ka?
+27/03/24, 11:27 pm - Gaurav Kalamkar: Kona kade?
+27/03/24, 11:36 pm - Prathamesh Shelke: <Media omitted>
+29/03/24, 11:25 am - Sairaj: CCL Exp 6-10 Send kra
+29/03/24, 1:06 pm - Jayant: 1 sa 5 tak baj na CCL ka
+29/03/24, 1:23 pm - Ojas: <Media omitted>
+29/03/24, 1:23 pm - Ojas: <Media omitted>
+29/03/24, 1:23 pm - Ojas: <Media omitted>
+29/03/24, 1:23 pm - Ojas: <Media omitted>
+29/03/24, 1:25 pm - Aditya: Are hya madhe cut short krun lihyach ahe
+29/03/24, 1:25 pm - Ojas: ccl madhe naa
+29/03/24, 1:26 pm - Aditya: <Media omitted>
+29/03/24, 1:27 pm - Jayant: 1 to 5 ka write up nahi likha hai
+29/03/24, 1:27 pm - Aditya: Krna hai
+29/03/24, 1:27 pm - Aditya: Deta hu wait
+29/03/24, 1:27 pm - Sairaj: sending wait
+29/03/24, 1:27 pm - Aditya: <Media omitted>
+29/03/24, 1:27 pm - Aditya: <Media omitted>
+29/03/24, 1:28 pm - Aditya: <Media omitted>
+29/03/24, 1:29 pm - Jayant: 1 or 2 bhi baj
+29/03/24, 1:29 pm - Aditya: Ha sir
+29/03/24, 1:29 pm - Aditya: <Media omitted>
+29/03/24, 1:29 pm - Aditya: 1&2 CSS hyatl lihi
+29/03/24, 1:30 pm - Jayant: AI ka bhi baj da fir
+30/03/24, 10:14 am - Sairaj: spcc  exp 8.9.10 pathva
+30/03/24, 10:30 am - Gaurav Kalamkar: <Media omitted>
+30/03/24, 11:16 am - Gaurav Kalamkar: Ccl ka sirf 3 assignment hai kya?
+30/03/24, 11:21 am - Aditya: Nhi
+30/03/24, 11:21 am - Aditya: Purn 10 ahe
+30/03/24, 11:36 am - Sairaj: Ho
+30/03/24, 11:36 am - Gaurav Kalamkar: Haa zhopet ahe ajun
+30/03/24, 11:36 am - Gaurav Kalamkar: 😂
+30/03/24, 11:36 am - Gaurav Kalamkar: Okayy
+30/03/24, 12:14 pm - Aditya: Are sorry me pratical read kel 🥲
+30/03/24, 12:14 pm - Aditya: 3 ch ahet
+30/03/24, 12:15 pm - Gaurav Kalamkar: 😂😂
+30/03/24, 12:17 pm - Sairaj: test kmi krt ja
+30/03/24, 12:22 pm - Prathamesh Shelke: Css che 1-3 experiment pathva na
+30/03/24, 12:22 pm - Prathamesh Shelke: Ani tyche output pan
+30/03/24, 12:22 pm - Prathamesh Shelke: He saglynche
+30/03/24, 12:30 pm - Gaurav Kalamkar: Taste*
+30/03/24, 12:30 pm - Sairaj: sorry bhai
+30/03/24, 12:31 pm - Gaurav Kalamkar: Arey bas ka
+30/03/24, 12:31 pm - Gaurav Kalamkar: 😂😂😂
+31/03/24, 12:36 am - 👑Atharva👑: Iot chya assignment pathva
+31/03/24, 10:01 pm - Gaurav Kalamkar: Hey lihilay ka koni?
+31/03/24, 10:04 pm - Aditya: Konte phije
+31/03/24, 10:05 pm - Gaurav Kalamkar: 6 to 10
+31/03/24, 10:06 pm - Gaurav Kalamkar: And outputs pan de na astil tar
+31/03/24, 10:06 pm - Gaurav Kalamkar: Exp 1 to 10 che
+31/03/24, 10:06 pm - Aditya: Output classroom madhe ch ahet bgh
+31/03/24, 10:06 pm - Gaurav Kalamkar: Accha
+01/04/24, 7:28 pm - Aditya Yadav: This message was deleted
+01/04/24, 11:59 pm - Aditya Yadav: Ready for some friendly competition? Join my group on Dream11! https://www.dream11.com/groups?groupId=eec5a5064ab13687b85d006a84be7a6b
+03/04/24, 3:22 pm - Aditya: <Media omitted>
+03/04/24, 9:55 pm - Gaurav Kalamkar: Spcc ka hai kya kisi pe assignment
+03/04/24, 9:55 pm - Gaurav Kalamkar: ?
+03/04/24, 9:55 pm - Gaurav Kalamkar: 3 se aage ke
+04/04/24, 6:51 pm - 👑Atharva👑: Ratri conference call kru
+04/04/24, 6:51 pm - Gaurav Kalamkar: Done
+04/04/24, 6:52 pm - Gaurav Kalamkar: Time?
+04/04/24, 7:04 pm - Sairaj: 10:30
+04/04/24, 7:04 pm - 👑Atharva👑: Bghu na sgle ky boltat
+06/04/24, 2:41 pm - Your security code with +91 70283 97487 changed. Tap to learn more.
+09/04/24, 1:03 pm - Ojas: Ai assignments and practical bhejo koi please
+09/04/24, 1:03 pm - Ojas: 😟
+09/04/24, 1:04 pm - Gaurav Kalamkar: 🥲
+09/04/24, 1:06 pm - Aditya: Sgle nhi ahet
+09/04/24, 1:07 pm - Ojas: Aastil yevdhe pathav kii
+09/04/24, 1:08 pm - Aditya: <Media omitted>
+09/04/24, 1:19 pm - Gaurav Kalamkar: Ek assignment
+09/04/24, 1:19 pm - Gaurav Kalamkar: 19 pages??
+09/04/24, 1:19 pm - Gaurav Kalamkar: 💀💀💀
